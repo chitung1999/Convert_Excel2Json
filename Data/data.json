@@ -1,0 +1,7084 @@
+[
+    {
+        "index": 0,
+        "means": [
+            "v?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "about",
+            "regarding",
+            "concerning",
+            "pertaining to"
+        ]
+    },
+    {
+        "index": 1,
+        "means": [
+            "tuy?t d?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "absolute"
+        ]
+    },
+    {
+        "index": 2,
+        "means": [
+            "th?m h?t t?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "absorbent"
+        ]
+    },
+    {
+        "index": 3,
+        "means": [
+            "di v?o",
+            "truy c?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "access",
+            "enter"
+        ]
+    },
+    {
+        "index": 4,
+        "means": [
+            "ph? ki?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "accessory"
+        ]
+    },
+    {
+        "index": 5,
+        "means": [
+            "ch? ?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "accommodate",
+            "dwelling"
+        ]
+    },
+    {
+        "index": 6,
+        "means": [
+            "ho?n th?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "accomplish",
+            "finalize"
+        ]
+    },
+    {
+        "index": 7,
+        "means": [
+            "gi?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "accomplished",
+            "skillful",
+            "adept",
+            "proficient"
+        ]
+    },
+    {
+        "index": 8,
+        "means": [
+            "c? du?c",
+            "ti?p thu"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "acquire"
+        ]
+    },
+    {
+        "index": 9,
+        "means": [
+            "mua(doanh nghi?p)"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "acquire"
+        ]
+    },
+    {
+        "index": 10,
+        "means": [
+            "d?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "adequate",
+            "sufficient",
+            "enough"
+        ]
+    },
+    {
+        "index": 11,
+        "means": [
+            "y?u th?ch"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "adore"
+        ]
+    },
+    {
+        "index": 12,
+        "means": [
+            "?nh hu?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "affect"
+        ]
+    },
+    {
+        "index": 13,
+        "means": [
+            "c? th?",
+            "cho"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "afford"
+        ]
+    },
+    {
+        "index": 14,
+        "means": [
+            "ph?i chang"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "affordable",
+            "resonable"
+        ]
+    },
+    {
+        "index": 15,
+        "means": [
+            "sau d?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "afterward"
+        ]
+    },
+    {
+        "index": 16,
+        "means": [
+            "ngu?c l?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "against"
+        ]
+    },
+    {
+        "index": 17,
+        "means": [
+            "n?i dung chuong tr?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "agenda"
+        ]
+    },
+    {
+        "index": 18,
+        "means": [
+            "m?y bay"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "aircraft",
+            "plane",
+            "airplane",
+            "aeroplane"
+        ]
+    },
+    {
+        "index": 19,
+        "means": [
+            "nh? gi? kim"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "alchemist"
+        ]
+    },
+    {
+        "index": 20,
+        "means": [
+            "can ch?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "align"
+        ]
+    },
+    {
+        "index": 21,
+        "means": [
+            "thay th?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "alternative",
+            "replacement",
+            "substitute"
+        ]
+    },
+    {
+        "index": 22,
+        "means": [
+            "ph?n t?ch"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "analyze"
+        ]
+    },
+    {
+        "index": 23,
+        "means": [
+            "c? k?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "ancient"
+        ]
+    },
+    {
+        "index": 24,
+        "means": [
+            "ch? th?ch"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "annotation"
+        ]
+    },
+    {
+        "index": 25,
+        "means": [
+            "trang ph?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "apparel",
+            "garment",
+            "costume",
+            "clothing"
+        ]
+    },
+    {
+        "index": 26,
+        "means": [
+            "h?nh nhu"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "apparently"
+        ]
+    },
+    {
+        "index": 27,
+        "means": [
+            "thu h?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "appeal to"
+        ]
+    },
+    {
+        "index": 28,
+        "means": [
+            "th?a hi?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "appease",
+            "compromise"
+        ]
+    },
+    {
+        "index": 29,
+        "means": [
+            "ngon"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "appetizing",
+            "delicious"
+        ]
+    },
+    {
+        "index": 30,
+        "means": [
+            "b? nhi?m",
+            "ch? d?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "appoint"
+        ]
+    },
+    {
+        "index": 31,
+        "means": [
+            "c?m k?ch",
+            "d?nh gi? cao"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "appreciate"
+        ]
+    },
+    {
+        "index": 32,
+        "means": [
+            "dang d?n g?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "approaching"
+        ]
+    },
+    {
+        "index": 33,
+        "means": [
+            "b? nu?i c?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "aquarium"
+        ]
+    },
+    {
+        "index": 34,
+        "means": [
+            "ki?n tr?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "architect"
+        ]
+    },
+    {
+        "index": 35,
+        "means": [
+            "du?c cho l?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "arguably"
+        ]
+    },
+    {
+        "index": 36,
+        "means": [
+            "cung"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "as well",
+            "also",
+            "alike"
+        ]
+    },
+    {
+        "index": 37,
+        "means": [
+            "kh?a c?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "aspect",
+            "part"
+        ]
+    },
+    {
+        "index": 38,
+        "means": [
+            "kh?t khao l?m g?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "aspire ",
+            "desire to V"
+        ]
+    },
+    {
+        "index": 39,
+        "means": [
+            "d?y tham v?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "aspiring ",
+            "ambitious"
+        ]
+    },
+    {
+        "index": 40,
+        "means": [
+            "l?p r?p",
+            "t?p h?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "assembly",
+            "gathering"
+        ]
+    },
+    {
+        "index": 41,
+        "means": [
+            "kh?ng d?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "asserting"
+        ]
+    },
+    {
+        "index": 42,
+        "means": [
+            "s? x?c nh?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "assertion"
+        ]
+    },
+    {
+        "index": 43,
+        "means": [
+            "ch? d?nh",
+            "giao ph?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "assign"
+        ]
+    },
+    {
+        "index": 44,
+        "means": [
+            "c?ng t?c vi?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "associate"
+        ]
+    },
+    {
+        "index": 45,
+        "means": [
+            "d?m b?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "assure"
+        ]
+    },
+    {
+        "index": 46,
+        "means": [
+            "b?y gi?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "at present",
+            "at the moment",
+            "now",
+            "right now",
+            "right away"
+        ]
+    },
+    {
+        "index": 47,
+        "means": [
+            "cu?i c?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "at the end",
+            "finally",
+            "eventually",
+            "ultimately"
+        ]
+    },
+    {
+        "index": 48,
+        "means": [
+            "d?nh k?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "attach"
+        ]
+    },
+    {
+        "index": 49,
+        "means": [
+            "n? l?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "attempt",
+            "effort"
+        ]
+    },
+    {
+        "index": 50,
+        "means": [
+            "g?n cho",
+            "quy cho"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "attribute to"
+        ]
+    },
+    {
+        "index": 51,
+        "means": [
+            "v?n d?ng vi?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "athlete"
+        ]
+    },
+    {
+        "index": 52,
+        "means": [
+            "kh?n ph?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "auditorium"
+        ]
+    },
+    {
+        "index": 53,
+        "means": [
+            "b? sung"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "augmented"
+        ]
+    },
+    {
+        "index": 54,
+        "means": [
+            "? t?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "automobile",
+            "car",
+            "auto"
+        ]
+    },
+    {
+        "index": 55,
+        "means": [
+            "?y quy?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "authorize"
+        ]
+    },
+    {
+        "index": 56,
+        "means": [
+            "d?i l?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "avenue"
+        ]
+    },
+    {
+        "index": 57,
+        "means": [
+            "nh?n th?c du?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "aware of"
+        ]
+    },
+    {
+        "index": 58,
+        "means": [
+            "c?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "ban",
+            "forbid",
+            "prohibit"
+        ]
+    },
+    {
+        "index": 59,
+        "means": [
+            "chu?ng tr?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "barn"
+        ]
+    },
+    {
+        "index": 60,
+        "means": [
+            "r?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "basket"
+        ]
+    },
+    {
+        "index": 61,
+        "means": [
+            "pin"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "battery"
+        ]
+    },
+    {
+        "index": 62,
+        "means": [
+            "du?c tin tu?ng, t?n nhi?m l?m g?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "be credited with Ving"
+        ]
+    },
+    {
+        "index": 63,
+        "means": [
+            "c? kh? nang"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "be likely to V"
+        ]
+    },
+    {
+        "index": 64,
+        "means": [
+            "c? th? ch?u d?ng du?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "bearable"
+        ]
+    },
+    {
+        "index": 65,
+        "means": [
+            "c?i ngu?i",
+            "g?p ngu?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "bend over"
+        ]
+    },
+    {
+        "index": 66,
+        "means": [
+            "c? ?ch"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "benificial"
+        ]
+    },
+    {
+        "index": 67,
+        "means": [
+            "cay d?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "bitterness"
+        ]
+    },
+    {
+        "index": 68,
+        "means": [
+            "t? h?o khi c? g?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "boast"
+        ]
+    },
+    {
+        "index": 69,
+        "means": [
+            "l?m tang"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "boost up"
+        ]
+    },
+    {
+        "index": 70,
+        "means": [
+            "m? r?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "broaden"
+        ]
+    },
+    {
+        "index": 71,
+        "means": [
+            "h?p d?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "captivating"
+        ]
+    },
+    {
+        "index": 72,
+        "means": [
+            "chi?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "capture"
+        ]
+    },
+    {
+        "index": 73,
+        "means": [
+            "quy?n s? h?u xe"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "car tittle"
+        ]
+    },
+    {
+        "index": 74,
+        "means": [
+            "chu d?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "caring"
+        ]
+    },
+    {
+        "index": 75,
+        "means": [
+            "th?m to tr?i s?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "carpet"
+        ]
+    },
+    {
+        "index": 76,
+        "means": [
+            "lo?i",
+            "danh m?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "category"
+        ]
+    },
+    {
+        "index": 77,
+        "means": [
+            "danh m?c "
+        ],
+        "notes": [
+        ],
+        "words": [
+            "directory"
+        ]
+    },
+    {
+        "index": 78,
+        "means": [
+            "chuy?n gia (adj)"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "certified"
+        ]
+    },
+    {
+        "index": 79,
+        "means": [
+            "x?c nh?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "certify"
+        ]
+    },
+    {
+        "index": 80,
+        "means": [
+            "luu h?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "circulate"
+        ]
+    },
+    {
+        "index": 81,
+        "means": [
+            "v? tr?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "circumstance",
+            "situation"
+        ]
+    },
+    {
+        "index": 82,
+        "means": [
+            "nh?n vi?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "clerk"
+        ]
+    },
+    {
+        "index": 83,
+        "means": [
+            "l?m s?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "clinical"
+        ]
+    },
+    {
+        "index": 84,
+        "means": [
+            "ven bi?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "coastal"
+        ]
+    },
+    {
+        "index": 85,
+        "means": [
+            "d?ng nghi?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "colleage",
+            "coworker",
+            "partner"
+        ]
+    },
+    {
+        "index": 86,
+        "means": [
+            "k?t h?p v?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "combined with"
+        ]
+    },
+    {
+        "index": 87,
+        "means": [
+            "h?a l?m g?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "commit Ving"
+        ]
+    },
+    {
+        "index": 88,
+        "means": [
+            "s? cam k?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "commitment"
+        ]
+    },
+    {
+        "index": 89,
+        "means": [
+            "s? k?t n?i",
+            "giao ti?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "communication"
+        ]
+    },
+    {
+        "index": 90,
+        "means": [
+            "truy?n th?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "communications"
+        ]
+    },
+    {
+        "index": 91,
+        "means": [
+            "d?n b?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "compensation"
+        ]
+    },
+    {
+        "index": 92,
+        "means": [
+            "c?nh tranh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "compete"
+        ]
+    },
+    {
+        "index": 93,
+        "means": [
+            "th?nh ph?n",
+            "t? h?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "composition"
+        ]
+    },
+    {
+        "index": 94,
+        "means": [
+            "to?n di?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "comprehensive"
+        ]
+    },
+    {
+        "index": 95,
+        "means": [
+            "ng?n g?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "concise",
+            "brieaf"
+        ]
+    },
+    {
+        "index": 96,
+        "means": [
+            "ti?n h?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "conduct",
+            "fulfill",
+            "carry out",
+            "perform"
+        ]
+    },
+    {
+        "index": 97,
+        "means": [
+            "b? m?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "confidential"
+        ]
+    },
+    {
+        "index": 98,
+        "means": [
+            "d?i m?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "confront",
+            "face to"
+        ]
+    },
+    {
+        "index": 99,
+        "means": [
+            "s? hi?u l?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "confusion"
+        ]
+    },
+    {
+        "index": 100,
+        "means": [
+            "li?n ti?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "consecutive"
+        ]
+    },
+    {
+        "index": 101,
+        "means": [
+            "do d?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "consequently"
+        ]
+    },
+    {
+        "index": 102,
+        "means": [
+            "th?n tr?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "conservative"
+        ]
+    },
+    {
+        "index": 103,
+        "means": [
+            "d?ng k?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "considerable",
+            "significant",
+            "subtantial"
+        ]
+    },
+    {
+        "index": 104,
+        "means": [
+            "th?n tr?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "considerate"
+        ]
+    },
+    {
+        "index": 105,
+        "means": [
+            "r? r?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "conspicuously"
+        ]
+    },
+    {
+        "index": 106,
+        "means": [
+            "mang t?nh x?y d?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "constructive"
+        ]
+    },
+    {
+        "index": 107,
+        "means": [
+            "tham kh?o ? ki?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "consult"
+        ]
+    },
+    {
+        "index": 108,
+        "means": [
+            "h?p th?",
+            "ti?u th?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "consume"
+        ]
+    },
+    {
+        "index": 109,
+        "means": [
+            "h?p d?ng",
+            "k? k?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "contract"
+        ]
+    },
+    {
+        "index": 110,
+        "means": [
+            "nh? th?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "contractor"
+        ]
+    },
+    {
+        "index": 111,
+        "means": [
+            "ngu?i d?ng g?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "contributor"
+        ]
+    },
+    {
+        "index": 112,
+        "means": [
+            "h?i ngh?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "convention"
+        ]
+    },
+    {
+        "index": 113,
+        "means": [
+            "c? t?nh d?i tho?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "conversational"
+        ]
+    },
+    {
+        "index": 114,
+        "means": [
+            "chuy?n d?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "conversion"
+        ]
+    },
+    {
+        "index": 115,
+        "means": [
+            "h?p t?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "cooperate with"
+        ]
+    },
+    {
+        "index": 116,
+        "means": [
+            "h?p t?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "cooperative"
+        ]
+    },
+    {
+        "index": 117,
+        "means": [
+            "di?u ph?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "coordinate"
+        ]
+    },
+    {
+        "index": 118,
+        "means": [
+            "x? l?",
+            "gi?i quy?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "cope with",
+            "deal with",
+            "address",
+            "handle",
+            "solve",
+            "resolve"
+        ]
+    },
+    {
+        "index": 119,
+        "means": [
+            "c?t l?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "core"
+        ]
+    },
+    {
+        "index": 120,
+        "means": [
+            "ph? h?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "correspond with"
+        ]
+    },
+    {
+        "index": 121,
+        "means": [
+            "gi?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "cost",
+            "price",
+            "rate",
+            "expense: gi?"
+        ]
+    },
+    {
+        "index": 122,
+        "means": [
+            "t?nh to?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "count",
+            "calculate"
+        ]
+    },
+    {
+        "index": 123,
+        "means": [
+            "l?ng can d?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "courage"
+        ]
+    },
+    {
+        "index": 124,
+        "means": [
+            "nvien giao h?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "courier"
+        ]
+    },
+    {
+        "index": 125,
+        "means": [
+            "s?n th? thao"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "court"
+        ]
+    },
+    {
+        "index": 126,
+        "means": [
+            "t?o ra"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "creat"
+        ]
+    },
+    {
+        "index": 127,
+        "means": [
+            "s?ng t?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "innovative"
+        ]
+    },
+    {
+        "index": 128,
+        "means": [
+            "s?ng t?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "creative"
+        ]
+    },
+    {
+        "index": 129,
+        "means": [
+            "ti?u chu?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "criteria",
+            "standard"
+        ]
+    },
+    {
+        "index": 130,
+        "means": [
+            "nh? ph? b?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "critic"
+        ]
+    },
+    {
+        "index": 131,
+        "means": [
+            "ch? tr?ch"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "critical"
+        ]
+    },
+    {
+        "index": 132,
+        "means": [
+            "m?t c?ch ph? ph?n",
+            "nghi?m tr?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "critically"
+        ]
+    },
+    {
+        "index": 133,
+        "means": [
+            "quan tr?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "crucial",
+            "important"
+        ]
+    },
+    {
+        "index": 134,
+        "means": [
+            "theo th?ng l?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "customarily"
+        ]
+    },
+    {
+        "index": 135,
+        "means": [
+            "l?m theo y?u c?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "customize"
+        ]
+    },
+    {
+        "index": 136,
+        "means": [
+            "chu?i c?a h?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "chain store"
+        ]
+    },
+    {
+        "index": 137,
+        "means": [
+            "d?c di?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "characteristic"
+        ]
+    },
+    {
+        "index": 138,
+        "means": [
+            "t?nh ph? v?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "charge to"
+        ]
+    },
+    {
+        "index": 139,
+        "means": [
+            "t? thi?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "charity"
+        ]
+    },
+    {
+        "index": 140,
+        "means": [
+            "ki?m tra"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "check",
+            "test",
+            "examine",
+            "inspect"
+        ]
+    },
+    {
+        "index": 141,
+        "means": [
+            "d?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "dam"
+        ]
+    },
+    {
+        "index": 142,
+        "means": [
+            "b?nh minh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "dawn"
+        ]
+    },
+    {
+        "index": 143,
+        "means": [
+            "m?i gi?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "dealer"
+        ]
+    },
+    {
+        "index": 144,
+        "means": [
+            "d?i l?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "dealership"
+        ]
+    },
+    {
+        "index": 145,
+        "means": [
+            "ra m?t nh?m nh?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "debut"
+        ]
+    },
+    {
+        "index": 146,
+        "means": [
+            "kh?u tr?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "deduct"
+        ]
+    },
+    {
+        "index": 147,
+        "means": [
+            "th?m h?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "deficit"
+        ]
+    },
+    {
+        "index": 148,
+        "means": [
+            "ho?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "delay",
+            "postpone",
+            "put off"
+        ]
+    },
+    {
+        "index": 149,
+        "means": [
+            "d?i bi?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "delegate"
+        ]
+    },
+    {
+        "index": 150,
+        "means": [
+            "c?n th?n",
+            "c? ch? ?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "deliberate"
+        ]
+    },
+    {
+        "index": 151,
+        "means": [
+            "gi?i thi?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "demonstration"
+        ]
+    },
+    {
+        "index": 152,
+        "means": [
+            "ph? thu?c v?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "depend/rely on"
+        ]
+    },
+    {
+        "index": 153,
+        "means": [
+            "ti?n d?t c?c",
+            "d?t c?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "deposite"
+        ]
+    },
+    {
+        "index": 154,
+        "means": [
+            "m? t?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "describe"
+        ]
+    },
+    {
+        "index": 155,
+        "means": [
+            "thi?t k?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "design"
+        ]
+    },
+    {
+        "index": 156,
+        "means": [
+            "mang t?nh ph? ho?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "destructive"
+        ]
+    },
+    {
+        "index": 157,
+        "means": [
+            "t?ch ra",
+            "ri?ng l?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "detach"
+        ]
+    },
+    {
+        "index": 158,
+        "means": [
+            "chi ti?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "detail"
+        ]
+    },
+    {
+        "index": 159,
+        "means": [
+            "hu h?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "deteriorate",
+            "damage"
+        ]
+    },
+    {
+        "index": 160,
+        "means": [
+            "quy?t d?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "determine"
+        ]
+    },
+    {
+        "index": 161,
+        "means": [
+            "d?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "dig"
+        ]
+    },
+    {
+        "index": 162,
+        "means": [
+            "?n tu?ng",
+            "h?p d?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "dignify"
+        ]
+    },
+    {
+        "index": 163,
+        "means": [
+            "cham ch?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "diligently"
+        ]
+    },
+    {
+        "index": 164,
+        "means": [
+            "v?n chuy?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "diliver"
+        ]
+    },
+    {
+        "index": 165,
+        "means": [
+            "tr?c ti?p",
+            "g?i (thu t?)",
+            "ch? du?ng",
+            "hu?ng d?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "direct"
+        ]
+    },
+    {
+        "index": 166,
+        "means": [
+            "tr?c ti?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "directly",
+            "in person"
+        ]
+    },
+    {
+        "index": 167,
+        "means": [
+            "ti?t l?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "disclose"
+        ]
+    },
+    {
+        "index": 168,
+        "means": [
+            "da d?ng h?a"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "diversify"
+        ]
+    },
+    {
+        "index": 169,
+        "means": [
+            "chia"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "divide"
+        ]
+    },
+    {
+        "index": 170,
+        "means": [
+            "n?i d?a"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "domestic"
+        ]
+    },
+    {
+        "index": 171,
+        "means": [
+            "chi?m uu th?, th?ng tr?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "dominant"
+        ]
+    },
+    {
+        "index": 172,
+        "means": [
+            "m?nh/ d?ng k?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "drastically"
+        ]
+    },
+    {
+        "index": 173,
+        "means": [
+            "trong su?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "during",
+            "throughtout",
+            "over"
+        ]
+    },
+    {
+        "index": 174,
+        "means": [
+            "nhi?m v?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "duty"
+        ]
+    },
+    {
+        "index": 175,
+        "means": [
+            "h?o h?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "eager"
+        ]
+    },
+    {
+        "index": 176,
+        "means": [
+            "an m?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "eat away at"
+        ]
+    },
+    {
+        "index": 177,
+        "means": [
+            "ti?t ki?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "economical"
+        ]
+    },
+    {
+        "index": 178,
+        "means": [
+            "h? sinh th?i s?n ph?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "ecosystem"
+        ]
+    },
+    {
+        "index": 179,
+        "means": [
+            "hi?u qu?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "efficient",
+            "effective"
+        ]
+    },
+    {
+        "index": 180,
+        "means": [
+            "cu?c b?u c?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "election"
+        ]
+    },
+    {
+        "index": 181,
+        "means": [
+            "nh? nh?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "elegant"
+        ]
+    },
+    {
+        "index": 182,
+        "means": [
+            "c? th? l?m g?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "eligible for/to do sth ",
+            "qualified for/to do sth"
+        ]
+    },
+    {
+        "index": 183,
+        "means": [
+            "kh? th?i c?ng nghi?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "emission"
+        ]
+    },
+    {
+        "index": 184,
+        "means": [
+            "nh?n vi?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "employee",
+            "personnel",
+            "staff"
+        ]
+    },
+    {
+        "index": 185,
+        "means": [
+            "tr?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "empty",
+            "unoccupied",
+            "unused",
+            "vacant"
+        ]
+    },
+    {
+        "index": 186,
+        "means": [
+            "s? dang k?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "enrollment",
+            "registration"
+        ]
+    },
+    {
+        "index": 187,
+        "means": [
+            "doanh nghi?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "enterprise"
+        ]
+    },
+    {
+        "index": 188,
+        "means": [
+            "s? nhi?t t?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "enthusieasm"
+        ]
+    },
+    {
+        "index": 189,
+        "means": [
+            "doanh nh?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "entrepreneus"
+        ]
+    },
+    {
+        "index": 190,
+        "means": [
+            "d?ng co"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "engine",
+            "motor"
+        ]
+    },
+    {
+        "index": 191,
+        "means": [
+            "s? c?i thi?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "enhancement",
+            "improvement"
+        ]
+    },
+    {
+        "index": 192,
+        "means": [
+            "leo thang (chi ph?)"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "escalating"
+        ]
+    },
+    {
+        "index": 193,
+        "means": [
+            "thang cu?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "escalator"
+        ]
+    },
+    {
+        "index": 194,
+        "means": [
+            "d?o d?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "ethical"
+        ]
+    },
+    {
+        "index": 195,
+        "means": [
+            "hung ph?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "euphoria: hung ph?n"
+        ]
+    },
+    {
+        "index": 196,
+        "means": [
+            "d?nh gi?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "evaluate",
+            "assess"
+        ]
+    },
+    {
+        "index": 197,
+        "means": [
+            "thang m?y"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "evelator",
+            "lift"
+        ]
+    },
+    {
+        "index": 198,
+        "means": [
+            "b?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "evenly",
+            "equally"
+        ]
+    },
+    {
+        "index": 199,
+        "means": [
+            "vu?t qu?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "exceeded"
+        ]
+    },
+    {
+        "index": 200,
+        "means": [
+            "b?n c?nh d?/ ngo?i tr?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "except that",
+            "apart from",
+            "aside from",
+            "excluding",
+            "beyond",
+            "except for"
+        ]
+    },
+    {
+        "index": 201,
+        "means": [
+            "tuy?t v?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "exceptional",
+            "outstanding",
+            "excellent",
+            "superb"
+        ]
+    },
+    {
+        "index": 202,
+        "means": [
+            "s? d?c quy?n",
+            "s? ri?ng bi?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "exclusiveness"
+        ]
+    },
+    {
+        "index": 203,
+        "means": [
+            "nh? di?u h?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "executive",
+            "operator"
+        ]
+    },
+    {
+        "index": 204,
+        "means": [
+            "guong m?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "exemplary"
+        ]
+    },
+    {
+        "index": 205,
+        "means": [
+            "kh? th?i xe c?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "exhaust"
+        ]
+    },
+    {
+        "index": 206,
+        "means": [
+            "m? r?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "expand"
+        ]
+    },
+    {
+        "index": 207,
+        "means": [
+            "k? v?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "expect"
+        ]
+    },
+    {
+        "index": 208,
+        "means": [
+            "chi ti?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "expenditure"
+        ]
+    },
+    {
+        "index": 209,
+        "means": [
+            "d?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "expensive",
+            "costly"
+        ]
+    },
+    {
+        "index": 210,
+        "means": [
+            "chuy?n gia"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "expert",
+            "professional",
+            "speacialist"
+        ]
+    },
+    {
+        "index": 211,
+        "means": [
+            "chuy?n m?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "expertise",
+            "specialize"
+        ]
+    },
+    {
+        "index": 212,
+        "means": [
+            "h?t h?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "expire"
+        ]
+    },
+    {
+        "index": 213,
+        "means": [
+            "b?y t?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "express"
+        ]
+    },
+    {
+        "index": 214,
+        "means": [
+            "s? di?n tho?i m? r?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "extension"
+        ]
+    },
+    {
+        "index": 215,
+        "means": [
+            "s?u r?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "extensive"
+        ]
+    },
+    {
+        "index": 216,
+        "means": [
+            "t? ch?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "facilitate",
+            "institution"
+        ]
+    },
+    {
+        "index": 217,
+        "means": [
+            "y?u t?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "factor"
+        ]
+    },
+    {
+        "index": 218,
+        "means": [
+        ],
+        "notes": [
+        ],
+        "words": [
+            "factory floor",
+            "worksite",
+            "construction site"
+        ]
+    },
+    {
+        "index": 219,
+        "means": [
+            "gi?ng vi?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "faculty"
+        ]
+    },
+    {
+        "index": 220,
+        "means": [
+            "kh?",
+            "c?ng b?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "fairly"
+        ]
+    },
+    {
+        "index": 221,
+        "means": [
+            "vu?t xa"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "far ahead of"
+        ]
+    },
+    {
+        "index": 222,
+        "means": [
+            "thu?n l?i",
+            "thi?n ch?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "favorable"
+        ]
+    },
+    {
+        "index": 223,
+        "means": [
+            "t?nh kh? thi"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "feasibility"
+        ]
+    },
+    {
+        "index": 224,
+        "means": [
+            "d?c trung ",
+            "mi?u t?",
+            "t?nh nang"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "feature"
+        ]
+    },
+    {
+        "index": 225,
+        "means": [
+            "th?y"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "find",
+            "deem"
+        ]
+    },
+    {
+        "index": 226,
+        "means": [
+            "ho?n th?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "finish",
+            "end",
+            "complete"
+        ]
+    },
+    {
+        "index": 227,
+        "means": [
+            "c?ng ty"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "firm",
+            "corporate",
+            "company",
+            "association",
+            "partnership"
+        ]
+    },
+    {
+        "index": 228,
+        "means": [
+            "l?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "flaw",
+            "defect",
+            "malfunction"
+        ]
+    },
+    {
+        "index": 229,
+        "means": [
+            "t?p trung v?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "focus on",
+            "concentrate on"
+        ]
+    },
+    {
+        "index": 230,
+        "means": [
+            "g?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "fold"
+        ]
+    },
+    {
+        "index": 231,
+        "means": [
+            "xe n?ng h?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "folklift"
+        ]
+    },
+    {
+        "index": 232,
+        "means": [
+            "tu?n theo"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "follow",
+            "comply with",
+            "adhere to",
+            "obey"
+        ]
+    },
+    {
+        "index": 233,
+        "means": [
+            "di theo",
+            "theo d?i",
+            "tu?n theo"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "follow"
+        ]
+    },
+    {
+        "index": 234,
+        "means": [
+            "sau"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "following",
+            "affter",
+            "subsequent to"
+        ]
+    },
+    {
+        "index": 235,
+        "means": [
+            "bu?c ai l?m g?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "force sb to do sth"
+        ]
+    },
+    {
+        "index": 236,
+        "means": [
+            "th?nh l?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "form",
+            "establish"
+        ]
+    },
+    {
+        "index": 237,
+        "means": [
+            "do?n",
+            "m?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "fragment"
+        ]
+    },
+    {
+        "index": 238,
+        "means": [
+            "mong manh",
+            "d? v?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "fragile"
+        ]
+    },
+    {
+        "index": 239,
+        "means": [
+            "mi?n ph?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "free",
+            "at no cost",
+            "free of charge",
+            "complimentary"
+        ]
+    },
+    {
+        "index": 240,
+        "means": [
+            "d?y"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "full of",
+            "crowded with"
+        ]
+    },
+    {
+        "index": 241,
+        "means": [
+            "ch?c nang"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "function"
+        ]
+    },
+    {
+        "index": 242,
+        "means": [
+            "du?c trang b? n?i th?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "funish with"
+        ]
+    },
+    {
+        "index": 243,
+        "means": [
+            "ti?n ?ch b? sung"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "further amenities"
+        ]
+    },
+    {
+        "index": 244,
+        "means": [
+            "t?p h?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "gather",
+            "bring together"
+        ]
+    },
+    {
+        "index": 245,
+        "means": [
+            "t?o ra"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "generate"
+        ]
+    },
+    {
+        "index": 246,
+        "means": [
+            "th?c s?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "genuinely"
+        ]
+    },
+    {
+        "index": 247,
+        "means": [
+            "li?n l?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "get in touch with",
+            "call",
+            "contact",
+            "reach"
+        ]
+    },
+    {
+        "index": 248,
+        "means": [
+            "t?m hi?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "get information",
+            "learn"
+        ]
+    },
+    {
+        "index": 249,
+        "means": [
+            "bu?c -> phuong ti?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "get into",
+            "get on",
+            "board"
+        ]
+    },
+    {
+        "index": 250,
+        "means": [
+            "to?n c?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "globally"
+        ]
+    },
+    {
+        "index": 251,
+        "means": [
+            "ra m?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "go on"
+        ]
+    },
+    {
+        "index": 252,
+        "means": [
+            "d?nh gi?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "go over",
+            "review"
+        ]
+    },
+    {
+        "index": 253,
+        "means": [
+            "c?m quy?n",
+            "cai qu?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "govern"
+        ]
+    },
+    {
+        "index": 254,
+        "means": [
+            "ch?p l?y",
+            "n?m l?y"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "grab"
+        ]
+    },
+    {
+        "index": 255,
+        "means": [
+            "d?n d?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "gradually",
+            "incrementally"
+        ]
+    },
+    {
+        "index": 256,
+        "means": [
+            "t?t nghi?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "graduate"
+        ]
+    },
+    {
+        "index": 257,
+        "means": [
+            "s? hi?u bi?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "grasp"
+        ]
+    },
+    {
+        "index": 258,
+        "means": [
+            "l?ng bi?t on"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "gratitude"
+        ]
+    },
+    {
+        "index": 259,
+        "means": [
+            "d?t ph?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "groundbreaking"
+        ]
+    },
+    {
+        "index": 260,
+        "means": [
+            "d?n d?t",
+            "ch? d?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "guide",
+            "lead"
+        ]
+    },
+    {
+        "index": 261,
+        "means": [
+            "t?i l?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "guilt"
+        ]
+    },
+    {
+        "index": 262,
+        "means": [
+            "c?ng b?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "give out"
+        ]
+    },
+    {
+        "index": 263,
+        "means": [
+            "m?i tru?ng s?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "habitat"
+        ]
+    },
+    {
+        "index": 264,
+        "means": [
+            "h?nh lang"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "hallway",
+            "corridor"
+        ]
+    },
+    {
+        "index": 265,
+        "means": [
+            "ng?p ng?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "haltingly"
+        ]
+    },
+    {
+        "index": 266,
+        "means": [
+            "t?i li?u ph?t tay"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "handouts"
+        ]
+    },
+    {
+        "index": 267,
+        "means": [
+            "mu b?o v?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "hard hat",
+            "safety helmet"
+        ]
+    },
+    {
+        "index": 268,
+        "means": [
+            "thu ho?ch"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "harvest"
+        ]
+    },
+    {
+        "index": 269,
+        "means": [
+            "ngu?i th?a k?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "heir"
+        ]
+    },
+    {
+        "index": 270,
+        "means": [
+            "mu"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "helmet"
+        ]
+    },
+    {
+        "index": 271,
+        "means": [
+            "d?a di?m l?ch s?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "historic site",
+            "historical tourist attraction"
+        ]
+    },
+    {
+        "index": 272,
+        "means": [
+            "th? hi?n k?nh tr?ng",
+            "danh d?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "honor"
+        ]
+    },
+    {
+        "index": 273,
+        "means": [
+            "kh?ch s?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "hotel",
+            "motel",
+            "inn"
+        ]
+    },
+    {
+        "index": 274,
+        "means": [
+            "nhung/ tuy nhi?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "however",
+            "nevertheless",
+            "nonetheless",
+            "but",
+            "yet"
+        ]
+    },
+    {
+        "index": 275,
+        "means": [
+            "d? ?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "humidity"
+        ]
+    },
+    {
+        "index": 276,
+        "means": [
+            "nh?n d?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "identify"
+        ]
+    },
+    {
+        "index": 277,
+        "means": [
+            "n?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "if",
+            "providing",
+            "provided that",
+            "assuming that",
+            "as long as"
+        ]
+    },
+    {
+        "index": 278,
+        "means": [
+            "t?c d?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "impact",
+            "affect"
+        ]
+    },
+    {
+        "index": 279,
+        "means": [
+            "d?ng l?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "impetus"
+        ]
+    },
+    {
+        "index": 280,
+        "means": [
+            "ho?n th?nh",
+            "th?c hi?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "implement"
+        ]
+    },
+    {
+        "index": 281,
+        "means": [
+            "tr?i v?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "in contrast",
+            "on the other hand",
+            "contrary to",
+            "on the contrary"
+        ]
+    },
+    {
+        "index": 282,
+        "means": [
+            "d?i l?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "in exchange/return for"
+        ]
+    },
+    {
+        "index": 283,
+        "means": [
+            "k?p gi?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "in time"
+        ]
+    },
+    {
+        "index": 284,
+        "means": [
+            "s? khuy?n kh?ch"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "incentive",
+            "encouragement"
+        ]
+    },
+    {
+        "index": 285,
+        "means": [
+            "ch? ra",
+            "bi?u th?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "indicate"
+        ]
+    },
+    {
+        "index": 286,
+        "means": [
+            "c? nh?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "individual"
+        ]
+    },
+    {
+        "index": 287,
+        "means": [
+            "b?t d?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "initate",
+            "begin",
+            "start"
+        ]
+    },
+    {
+        "index": 288,
+        "means": [
+            "ban d?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "initial"
+        ]
+    },
+    {
+        "index": 289,
+        "means": [
+            "y?u c?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "inquire/enquire about"
+        ]
+    },
+    {
+        "index": 290,
+        "means": [
+            "y?u c?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "inquiry/enquiry"
+        ]
+    },
+    {
+        "index": 291,
+        "means": [
+            "giao d?ch ttin n?i b?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "insider trading"
+        ]
+    },
+    {
+        "index": 292,
+        "means": [
+            "m?c d?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "inspite of",
+            "despite",
+            "notwithstanding"
+        ]
+    },
+    {
+        "index": 293,
+        "means": [
+            "l?p t?c",
+            "d?ng du?c lu?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "instant"
+        ]
+    },
+    {
+        "index": 294,
+        "means": [
+            "thay v? "
+        ],
+        "notes": [
+        ],
+        "words": [
+            "instead of",
+            "in place of",
+            "rather than"
+        ]
+    },
+    {
+        "index": 295,
+        "means": [
+            "hu?ng d?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "instruct",
+            "direct",
+            "guide"
+        ]
+    },
+    {
+        "index": 296,
+        "means": [
+            "b?n hdan"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "instruction",
+            "manual"
+        ]
+    },
+    {
+        "index": 297,
+        "means": [
+            "thi?t b?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "instrument",
+            "equipment",
+            "device"
+        ]
+    },
+    {
+        "index": 298,
+        "means": [
+            "c?ng c?",
+            "nh?c c?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "instrument"
+        ]
+    },
+    {
+        "index": 299,
+        "means": [
+            "d? d?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "intend to V"
+        ]
+    },
+    {
+        "index": 300,
+        "means": [
+            "v? c?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "intense"
+        ]
+    },
+    {
+        "index": 301,
+        "means": [
+            "gi?n do?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "interrupt",
+            "disturb",
+            "disrupt",
+            "distract"
+        ]
+    },
+    {
+        "index": 302,
+        "means": [
+            "k? th?c t?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "intership"
+        ]
+    },
+    {
+        "index": 303,
+        "means": [
+            "th?n m?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "intimately"
+        ]
+    },
+    {
+        "index": 304,
+        "means": [
+            "h?p d?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "intriguingly"
+        ]
+    },
+    {
+        "index": 305,
+        "means": [
+            "gi?i thi?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "introduce"
+        ]
+    },
+    {
+        "index": 306,
+        "means": [
+            "ph?t minh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "invent"
+        ]
+    },
+    {
+        "index": 307,
+        "means": [
+            "h?ng t?n kho"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "inventory"
+        ]
+    },
+    {
+        "index": 308,
+        "means": [
+            "di?u tra"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "investigate"
+        ]
+    },
+    {
+        "index": 309,
+        "means": [
+            "bao g?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "involve",
+            "include"
+        ]
+    },
+    {
+        "index": 310,
+        "means": [
+            "nguy?n li?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "ingredient"
+        ]
+    },
+    {
+        "index": 311,
+        "means": [
+            "b?t thu?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "irregularity"
+        ]
+    },
+    {
+        "index": 312,
+        "means": [
+            "ph?t h?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "issue",
+            "public",
+            "release",
+            "launch"
+        ]
+    },
+    {
+        "index": 313,
+        "means": [
+            "chia th?nh t?ng kho?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "itemize"
+        ]
+    },
+    {
+        "index": 314,
+        "means": [
+            "li?t k?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "itenize"
+        ]
+    },
+    {
+        "index": 315,
+        "means": [
+            "b? k?t",
+            "b? c?n tr?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "jam up"
+        ]
+    },
+    {
+        "index": 316,
+        "means": [
+            "xem x?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "judge"
+        ]
+    },
+    {
+        "index": 317,
+        "means": [
+            "ch?ng th?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "justify in Ving"
+        ]
+    },
+    {
+        "index": 318,
+        "means": [
+            "th?ch th?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "keen on",
+            "interested in"
+        ]
+    },
+    {
+        "index": 319,
+        "means": [
+            "s?u s?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "keen"
+        ]
+    },
+    {
+        "index": 320,
+        "means": [
+            "gi?",
+            "duy tr?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "keep",
+            "stay",
+            "remain"
+        ]
+    },
+    {
+        "index": 321,
+        "means": [
+            "thang tr?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "ladder"
+        ]
+    },
+    {
+        "index": 322,
+        "means": [
+            "c?t/ h? c?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "land >< get off"
+        ]
+    },
+    {
+        "index": 323,
+        "means": [
+            "d?t du?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "land",
+            "get",
+            "obtain",
+            "achieve",
+            "gain",
+            "have"
+        ]
+    },
+    {
+        "index": 324,
+        "means": [
+            "d?t xu?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "last-minute"
+        ]
+    },
+    {
+        "index": 325,
+        "means": [
+            "g?n d?y"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "lately",
+            "recently"
+        ]
+    },
+    {
+        "index": 326,
+        "means": [
+            "ph?t h?nh",
+            "ph?t d?ng",
+            "kh?i d?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "launch"
+        ]
+    },
+    {
+        "index": 327,
+        "means": [
+            "b?i c?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "lawn"
+        ]
+    },
+    {
+        "index": 328,
+        "means": [
+            "b?i h?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "lecture"
+        ]
+    },
+    {
+        "index": 329,
+        "means": [
+            "ph?p l?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "legal"
+        ]
+    },
+    {
+        "index": 330,
+        "means": [
+            "cho vay"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "lend to"
+        ]
+    },
+    {
+        "index": 331,
+        "means": [
+            "nhu nhau"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "likable"
+        ]
+    },
+    {
+        "index": 332,
+        "means": [
+            "tuong t?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "like wise"
+        ]
+    },
+    {
+        "index": 333,
+        "means": [
+            "ch?t l?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "liquid"
+        ]
+    },
+    {
+        "index": 334,
+        "means": [
+            "kho?n vay/ cho vay"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "loan"
+        ]
+    },
+    {
+        "index": 335,
+        "means": [
+            "v?n d?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "lobby",
+            "construct",
+            "story",
+            "floor"
+        ]
+    },
+    {
+        "index": 336,
+        "means": [
+            "b?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "long-lasting",
+            "durable",
+            "sustainable"
+        ]
+    },
+    {
+        "index": 337,
+        "means": [
+            "nh?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "look at",
+            "see",
+            "face",
+            "peer into"
+        ]
+    },
+    {
+        "index": 338,
+        "means": [
+            "b?i d?t tr?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "lot"
+        ]
+    },
+    {
+        "index": 339,
+        "means": [
+            "ph?ng ch?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "lounge"
+        ]
+    },
+    {
+        "index": 340,
+        "means": [
+            "tr?ng l?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "magnificent"
+        ]
+    },
+    {
+        "index": 341,
+        "means": [
+            "ph?ng d?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "magnify"
+        ]
+    },
+    {
+        "index": 342,
+        "means": [
+            "duy tr?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "maintain"
+        ]
+    },
+    {
+        "index": 343,
+        "means": [
+            "da s?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "majority"
+        ]
+    },
+    {
+        "index": 344,
+        "means": [
+            "c? h?n/ k l?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "marginally",
+            "very slightly"
+        ]
+    },
+    {
+        "index": 345,
+        "means": [
+            "phuong ph?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "measure",
+            "method"
+        ]
+    },
+    {
+        "index": 346,
+        "means": [
+            "d?p ?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "meet the deadline",
+            "damand"
+        ]
+    },
+    {
+        "index": 347,
+        "means": [
+            "thuong gia"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "merchant"
+        ]
+    },
+    {
+        "index": 348,
+        "means": [
+            "s?t nh?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "merge"
+        ]
+    },
+    {
+        "index": 349,
+        "means": [
+            "nh?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "minor",
+            "tiny"
+        ]
+    },
+    {
+        "index": 350,
+        "means": [
+            "thi?u s?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "minority"
+        ]
+    },
+    {
+        "index": 351,
+        "means": [
+            "hi?n d?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "modern",
+            "up-to-date",
+            "updated",
+            "comtemporary"
+        ]
+    },
+    {
+        "index": 352,
+        "means": [
+            "hi?n d?i h?a"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "modernize"
+        ]
+    },
+    {
+        "index": 353,
+        "means": [
+            "thay d?i",
+            "di?u ch?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "modify",
+            "change",
+            "adjust",
+            "revise"
+        ]
+    },
+    {
+        "index": 354,
+        "means": [
+            "lau b?ng ch?i lau nh?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "mop"
+        ]
+    },
+    {
+        "index": 355,
+        "means": [
+            "tinh th?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "morale"
+        ]
+    },
+    {
+        "index": 356,
+        "means": [
+            "ph?n l?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "mostly",
+            "mainly",
+            "largely"
+        ]
+    },
+    {
+        "index": 357,
+        "means": [
+            "gi?y an"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "napkins"
+        ]
+    },
+    {
+        "index": 358,
+        "means": [
+            "thu h?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "narrow"
+        ]
+    },
+    {
+        "index": 359,
+        "means": [
+            "thi?t b? d?nh v?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "navigational tool"
+        ]
+    },
+    {
+        "index": 360,
+        "means": [
+            "x?p x?",
+            "g?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "nearly",
+            "almost",
+            "approximately",
+            "about",
+            "roughly"
+        ]
+    },
+    {
+        "index": 361,
+        "means": [
+            "ti?u c?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "negative"
+        ]
+    },
+    {
+        "index": 362,
+        "means": [
+            "d?m ph?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "negotiate"
+        ]
+    },
+    {
+        "index": 363,
+        "means": [
+            "qu?y b?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "newstand"
+        ]
+    },
+    {
+        "index": 364,
+        "means": [
+            "d? c?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "nominate"
+        ]
+    },
+    {
+        "index": 365,
+        "means": [
+            "m?i l?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "novel"
+        ]
+    },
+    {
+        "index": 366,
+        "means": [
+            "nhi?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "numerous"
+        ]
+    },
+    {
+        "index": 367,
+        "means": [
+            "dinh du?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "nutritional"
+        ]
+    },
+    {
+        "index": 368,
+        "means": [
+            "m?c ti?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "objective",
+            "target",
+            "goal",
+            "purpose"
+        ]
+    },
+    {
+        "index": 369,
+        "means": [
+            "chu?ng ng?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "obstacle"
+        ]
+    },
+    {
+        "index": 370,
+        "means": [
+            "?t khi"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "occasionally"
+        ]
+    },
+    {
+        "index": 371,
+        "means": [
+            "n?m gi?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "occupy"
+        ]
+    },
+    {
+        "index": 372,
+        "means": [
+            "x?y ra"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "occur"
+        ]
+    },
+    {
+        "index": 373,
+        "means": [
+            "tr?n truy?n h?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "on air"
+        ]
+    },
+    {
+        "index": 374,
+        "means": [
+            "thay m?t cho"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "on behalf of",
+            "represent"
+        ]
+    },
+    {
+        "index": 375,
+        "means": [
+            "kh?ng th? tr?nh kh?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "on rare occasion"
+        ]
+    },
+    {
+        "index": 376,
+        "means": [
+            "d?ng gi?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "on time",
+            "punctual"
+        ]
+    },
+    {
+        "index": 377,
+        "means": [
+            "n?i chung"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "on the whole"
+        ]
+    },
+    {
+        "index": 378,
+        "means": [
+            "tr? di"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "onward"
+        ]
+    },
+    {
+        "index": 379,
+        "means": [
+            "ph?n d?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "oppose"
+        ]
+    },
+    {
+        "index": 380,
+        "means": [
+            "t?i uu"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "optimal"
+        ]
+    },
+    {
+        "index": 381,
+        "means": [
+            "ban d?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "originally",
+            "initially"
+        ]
+    },
+    {
+        "index": 382,
+        "means": [
+            "t?ng quan"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "overall"
+        ]
+    },
+    {
+        "index": 383,
+        "means": [
+            "gi?m s?t",
+            "theo d?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "oversee",
+            "supervise",
+            "monitor",
+            "follow"
+        ]
+    },
+    {
+        "index": 384,
+        "means": [
+            "nh? c?",
+            "b?i v?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "owing to",
+            "because of",
+            "on account of",
+            "due to",
+            "as a result of",
+            "thanks to"
+        ]
+    },
+    {
+        "index": 385,
+        "means": [
+            "s? h?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "own",
+            "belong",
+            "possess"
+        ]
+    },
+    {
+        "index": 386,
+        "means": [
+            "h?i d?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "panel of judges/experts"
+        ]
+    },
+    {
+        "index": 387,
+        "means": [
+            "ph?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "part",
+            "component"
+        ]
+    },
+    {
+        "index": 388,
+        "means": [
+            "d?c bi?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "particularly"
+        ]
+    },
+    {
+        "index": 389,
+        "means": [
+            "h?p t?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "partnership with"
+        ]
+    },
+    {
+        "index": 390,
+        "means": [
+            "hi?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "patio"
+        ]
+    },
+    {
+        "index": 391,
+        "means": [
+            "v?t m?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "pattern",
+            "sample",
+            "specimen"
+        ]
+    },
+    {
+        "index": 392,
+        "means": [
+            "con du?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "path"
+        ]
+    },
+    {
+        "index": 393,
+        "means": [
+            "tr?nh di?n",
+            "v?n h?nh",
+            "th?c hi?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "perform"
+        ]
+    },
+    {
+        "index": 394,
+        "means": [
+            "d?nh k?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "periodically"
+        ]
+    },
+    {
+        "index": 395,
+        "means": [
+            "vinh vi?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "permanently"
+        ]
+    },
+    {
+        "index": 396,
+        "means": [
+            "gi?y ph?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "permit"
+        ]
+    },
+    {
+        "index": 397,
+        "means": [
+            "cho ph?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "permit",
+            "grant",
+            "approve",
+            "allow"
+        ]
+    },
+    {
+        "index": 398,
+        "means": [
+            "khang khang l?m g?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "persist"
+        ]
+    },
+    {
+        "index": 399,
+        "means": [
+            "c? nh?n h?a"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "personalize"
+        ]
+    },
+    {
+        "index": 400,
+        "means": [
+            "quan di?m",
+            "t?m nh?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "perspective"
+        ]
+    },
+    {
+        "index": 401,
+        "means": [
+            "thuy?t ph?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "persuade",
+            "convince",
+            "pursue",
+            "chase"
+        ]
+    },
+    {
+        "index": 402,
+        "means": [
+            "thu?c tr? s?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "pesticide"
+        ]
+    },
+    {
+        "index": 403,
+        "means": [
+            "kh? t?ch"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "picky"
+        ]
+    },
+    {
+        "index": 404,
+        "means": [
+            "cam k?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "pledge"
+        ]
+    },
+    {
+        "index": 405,
+        "means": [
+            "ch?nh s?ch"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "policy"
+        ]
+    },
+    {
+        "index": 406,
+        "means": [
+            "nh?m",
+            "b? boi"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "pool"
+        ]
+    },
+    {
+        "index": 407,
+        "means": [
+            "t?ch c?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "positive"
+        ]
+    },
+    {
+        "index": 408,
+        "means": [
+            "c?i c?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "post"
+        ]
+    },
+    {
+        "index": 409,
+        "means": [
+            "ti?n thu du?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "preceeds"
+        ]
+    },
+    {
+        "index": 410,
+        "means": [
+            "x? l?",
+            "qu? tr?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "process"
+        ]
+    },
+    {
+        "index": 411,
+        "means": [
+            "do?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "predict",
+            "forecast",
+            "foreseen",
+            "anticipate",
+            "guess"
+        ]
+    },
+    {
+        "index": 412,
+        "means": [
+            "s? ti?n b?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "pregress",
+            "advancement"
+        ]
+    },
+    {
+        "index": 413,
+        "means": [
+            "so b?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "preliminary"
+        ]
+    },
+    {
+        "index": 414,
+        "means": [
+            "thuy?t tr?nh",
+            "tr?nh b?y",
+            "th? hi?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "present",
+            "show"
+        ]
+    },
+    {
+        "index": 415,
+        "means": [
+            "ch? t?ch h?i d?ng qu?n tr?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "president",
+            "chair person",
+            "chair man",
+            "chair women: ch? t?ch hdqt"
+        ]
+    },
+    {
+        "index": 416,
+        "means": [
+            "danh gi?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "prestigious"
+        ]
+    },
+    {
+        "index": 417,
+        "means": [
+            "ngan ch?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "prevent"
+        ]
+    },
+    {
+        "index": 418,
+        "means": [
+            "tru?c d?y"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "previously ",
+            "formerly"
+        ]
+    },
+    {
+        "index": 419,
+        "means": [
+            "ch?nh x?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "exactly",
+            "accurately",
+            "properly",
+            "precisely"
+        ]
+    },
+    {
+        "index": 420,
+        "means": [
+            "tru?c  "
+        ],
+        "notes": [
+        ],
+        "words": [
+            "prior to",
+            "by",
+            "before",
+            "in advance of",
+            "ahead of"
+        ]
+    },
+    {
+        "index": 421,
+        "means": [
+            "uu ti?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "priority"
+        ]
+    },
+    {
+        "index": 422,
+        "means": [
+            "tg th? vi?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "probationary period"
+        ]
+    },
+    {
+        "index": 423,
+        "means": [
+            "tr?nh t? th? t?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "procedure"
+        ]
+    },
+    {
+        "index": 424,
+        "means": [
+            "ti?p t?c th?c hi?n h?nh d?ng g? d?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "proceed"
+        ]
+    },
+    {
+        "index": 425,
+        "means": [
+            "th?nh th?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "proficient"
+        ]
+    },
+    {
+        "index": 426,
+        "means": [
+            "l?i nhu?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "profit"
+        ]
+    },
+    {
+        "index": 427,
+        "means": [
+            "d?ng k?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "progressively"
+        ]
+    },
+    {
+        "index": 428,
+        "means": [
+            "th? hi?n ra"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "project"
+        ]
+    },
+    {
+        "index": 429,
+        "means": [
+            "ti?m nang"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "promising",
+            "potential",
+            "prospective"
+        ]
+    },
+    {
+        "index": 430,
+        "means": [
+            "nhanh ch?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "prompt"
+        ]
+    },
+    {
+        "index": 431,
+        "means": [
+            "d? xu?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "proposal"
+        ]
+    },
+    {
+        "index": 432,
+        "means": [
+            "ch?ng minh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "prove"
+        ]
+    },
+    {
+        "index": 433,
+        "means": [
+            "cung c?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "provide"
+        ]
+    },
+    {
+        "index": 434,
+        "means": [
+            "mua"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "purchase"
+        ]
+    },
+    {
+        "index": 435,
+        "means": [
+            "theo du?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "pursue"
+        ]
+    },
+    {
+        "index": 436,
+        "means": [
+            "nh? cung c?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "purveyor",
+            "supplier"
+        ]
+    },
+    {
+        "index": 437,
+        "means": [
+            "dang m?c d?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "put on",
+            "try on"
+        ]
+    },
+    {
+        "index": 438,
+        "means": [
+            "b?ng c?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "qualification"
+        ]
+    },
+    {
+        "index": 439,
+        "means": [
+            "ch?t lu?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "quality"
+        ]
+    },
+    {
+        "index": 440,
+        "means": [
+            "s? lu?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "quantity"
+        ]
+    },
+    {
+        "index": 441,
+        "means": [
+            "c?i c?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "rake"
+        ]
+    },
+    {
+        "index": 442,
+        "means": [
+            "do?n du?ng d?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "ramp"
+        ]
+    },
+    {
+        "index": 443,
+        "means": [
+            "hi?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "rare"
+        ]
+    },
+    {
+        "index": 444,
+        "means": [
+            "h?u nhu kh?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "rarely",
+            "hardly",
+            "seldom"
+        ]
+    },
+    {
+        "index": 445,
+        "means": [
+            "thay v? "
+        ],
+        "notes": [
+        ],
+        "words": [
+            "rather than",
+            "instead of",
+            "in place of"
+        ]
+    },
+    {
+        "index": 446,
+        "means": [
+            "th?c hi?n",
+            "nh?n ra"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "realize"
+        ]
+    },
+    {
+        "index": 447,
+        "means": [
+            "nh? l?i",
+            "thu h?i ",
+            "h?i tu?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "recall",
+            "salvage"
+        ]
+    },
+    {
+        "index": 448,
+        "means": [
+            "h?a don"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "receipt",
+            "bill",
+            "invoice"
+        ]
+    },
+    {
+        "index": 449,
+        "means": [
+            "c?ng th?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "recipe"
+        ]
+    },
+    {
+        "index": 450,
+        "means": [
+            "mi?n cu?ng l?m g?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "reclutant to V"
+        ]
+    },
+    {
+        "index": 451,
+        "means": [
+            "ng?i",
+            "do d?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "reclutant",
+            "hesitate"
+        ]
+    },
+    {
+        "index": 452,
+        "means": [
+            "tuy?n d?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "recruit",
+            "hire",
+            "employee"
+        ]
+    },
+    {
+        "index": 453,
+        "means": [
+            "nh?n th?y"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "refer to",
+            "look at"
+        ]
+    },
+    {
+        "index": 454,
+        "means": [
+            "l?c",
+            "tinh luy?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "refine"
+        ]
+    },
+    {
+        "index": 455,
+        "means": [
+            "ph?n ?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "reflect"
+        ]
+    },
+    {
+        "index": 456,
+        "means": [
+            "tr?i gi?o du?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "reformatory"
+        ]
+    },
+    {
+        "index": 457,
+        "means": [
+            "c?i ti?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "reformulate"
+        ]
+    },
+    {
+        "index": 458,
+        "means": [
+            "ngung"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "refrain"
+        ]
+    },
+    {
+        "index": 459,
+        "means": [
+            "d? an v?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "refreshment",
+            "snack"
+        ]
+    },
+    {
+        "index": 460,
+        "means": [
+            "ho?n tr?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "refund",
+            "reimburse",
+            "repay",
+            "compensate",
+            "make up for"
+        ]
+    },
+    {
+        "index": 461,
+        "means": [
+            "tr?ng tu"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "refurbish"
+        ]
+    },
+    {
+        "index": 462,
+        "means": [
+            "d?nh gi?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "regarde"
+        ]
+    },
+    {
+        "index": 463,
+        "means": [
+            "b?t ch?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "regardless of"
+        ]
+    },
+    {
+        "index": 464,
+        "means": [
+            "d?ng ti?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "regrettably"
+        ]
+    },
+    {
+        "index": 465,
+        "means": [
+            "quy d?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "regulation"
+        ]
+    },
+    {
+        "index": 466,
+        "means": [
+            "t? ch?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "reject",
+            "refuse",
+            "decline",
+            "tuwn down: t? ch?i"
+        ]
+    },
+    {
+        "index": 467,
+        "means": [
+            "li?n quan d?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "relate to"
+        ]
+    },
+    {
+        "index": 468,
+        "means": [
+            "ngu?n thu nh?p d?ng tin c?y"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "reliable/dependable incomes"
+        ]
+    },
+    {
+        "index": 469,
+        "means": [
+            "r? r?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "remarkedly"
+        ]
+    },
+    {
+        "index": 470,
+        "means": [
+            "t? xa",
+            "xa l?nh h?o l?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "remote"
+        ]
+    },
+    {
+        "index": 471,
+        "means": [
+            "s?a ch?a, c?i t?o t?a nh?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "renovate",
+            "rebuild",
+            "remodel",
+            "modernize",
+            "restore"
+        ]
+    },
+    {
+        "index": 472,
+        "means": [
+            "kh?ch quen"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "repeat customer",
+            "patron"
+        ]
+    },
+    {
+        "index": 473,
+        "means": [
+            "theo nhu dc n?i/dua tin"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "reportedly"
+        ]
+    },
+    {
+        "index": 474,
+        "means": [
+            "d?i di?n",
+            "cho th?y",
+            "di?n t?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "represent"
+        ]
+    },
+    {
+        "index": 475,
+        "means": [
+            "uy t?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "reputation"
+        ]
+    },
+    {
+        "index": 476,
+        "means": [
+            "s? d?t ch?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "reservation"
+        ]
+    },
+    {
+        "index": 477,
+        "means": [
+            "ph?n h?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "respond",
+            "reply to"
+        ]
+    },
+    {
+        "index": 478,
+        "means": [
+            "nh?y b?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "responsive"
+        ]
+    },
+    {
+        "index": 479,
+        "means": [
+            "gi?i h?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "restriction"
+        ]
+    },
+    {
+        "index": 480,
+        "means": [
+            "doanh thu"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "revenue"
+        ]
+    },
+    {
+        "index": 481,
+        "means": [
+            "xem x?t l?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "revise"
+        ]
+    },
+    {
+        "index": 482,
+        "means": [
+            "ph?n l?",
+            "quy ho?ch"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "rezone"
+        ]
+    },
+    {
+        "index": 483,
+        "means": [
+            "th?m nh? lau ch?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "rug"
+        ]
+    },
+    {
+        "index": 484,
+        "means": [
+            "gi? cao di?m",
+            "l?m g?p",
+            "d? x? v?o",
+            "s? v?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "rush"
+        ]
+    },
+    {
+        "index": 485,
+        "means": [
+            "th?nh thi?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "saintly"
+        ]
+    },
+    {
+        "index": 486,
+        "means": [
+            "doanh s?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "sales figures",
+            "sales number"
+        ]
+    },
+    {
+        "index": 487,
+        "means": [
+            "l?y m?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "sample"
+        ]
+    },
+    {
+        "index": 488,
+        "means": [
+            "v?t s?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "scar"
+        ]
+    },
+    {
+        "index": 489,
+        "means": [
+            "c?i khan"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "scarf"
+        ]
+    },
+    {
+        "index": 490,
+        "means": [
+            "m?i huong"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "scent"
+        ]
+    },
+    {
+        "index": 491,
+        "means": [
+            "xem x?t k? lu?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "scrutinize"
+        ]
+    },
+    {
+        "index": 492,
+        "means": [
+            "t?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "seek",
+            "look for"
+        ]
+    },
+    {
+        "index": 493,
+        "means": [
+            "t? c?m quy?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "self-govern",
+            "independent"
+        ]
+    },
+    {
+        "index": 494,
+        "means": [
+            "h?p l?",
+            "c? ? th?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "sensible"
+        ]
+    },
+    {
+        "index": 495,
+        "means": [
+            "th?c t?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "sensible",
+            "realistic",
+            "pratical"
+        ]
+    },
+    {
+        "index": 496,
+        "means": [
+            "nh?y c?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "sensitive"
+        ]
+    },
+    {
+        "index": 497,
+        "means": [
+            "t?ch",
+            "chia"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "separate"
+        ]
+    },
+    {
+        "index": 498,
+        "means": [
+            "l?m vi?c ? d?u l?u nam/c?ng hi?n cho"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "service with"
+        ]
+    },
+    {
+        "index": 499,
+        "means": [
+            "d? d?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "set aside"
+        ]
+    },
+    {
+        "index": 500,
+        "means": [
+            "b? dao dia nh?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "set of utensils"
+        ]
+    },
+    {
+        "index": 501,
+        "means": [
+            "an cu l?c nghi?p",
+            "gi?i quy?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "settle"
+        ]
+    },
+    {
+        "index": 502,
+        "means": [
+            "c?c doan"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "severe",
+            "inclement"
+        ]
+    },
+    {
+        "index": 503,
+        "means": [
+            "ngu?i chan c?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "shepherd"
+        ]
+    },
+    {
+        "index": 504,
+        "means": [
+            "c?i x?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "showel"
+        ]
+    },
+    {
+        "index": 505,
+        "means": [
+            "t?n hi?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "signal"
+        ]
+    },
+    {
+        "index": 506,
+        "means": [
+            "l?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "sizable"
+        ]
+    },
+    {
+        "index": 507,
+        "means": [
+            "su?n s?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "smooth"
+        ]
+    },
+    {
+        "index": 508,
+        "means": [
+            "cho d?n nay r?t t?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "so far so good"
+        ]
+    },
+    {
+        "index": 509,
+        "means": [
+            "s? n?i n?",
+            "s? y?u c?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "solicitation"
+        ]
+    },
+    {
+        "index": 510,
+        "means": [
+            "ch?t r?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "solid"
+        ]
+    },
+    {
+        "index": 511,
+        "means": [
+            "gi?i ph?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "solution"
+        ]
+    },
+    {
+        "index": 512,
+        "means": [
+            "?m d?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "soothing"
+        ]
+    },
+    {
+        "index": 513,
+        "means": [
+            "chuy?n m?n h?a"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "specialization"
+        ]
+    },
+    {
+        "index": 514,
+        "means": [
+            "ch? r?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "specify"
+        ]
+    },
+    {
+        "index": 515,
+        "means": [
+            "?n d?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "stable"
+        ]
+    },
+    {
+        "index": 516,
+        "means": [
+            "ch?t th?nh ch?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "stack up",
+            "pile up"
+        ]
+    },
+    {
+        "index": 517,
+        "means": [
+            "thang b?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "stair way",
+            "stairs"
+        ]
+    },
+    {
+        "index": 518,
+        "means": [
+            "c? l?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "stake sth on sth"
+        ]
+    },
+    {
+        "index": 519,
+        "means": [
+            "t? tin v?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "stand behind"
+        ]
+    },
+    {
+        "index": 520,
+        "means": [
+            "ghim"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "staple"
+        ]
+    },
+    {
+        "index": 521,
+        "means": [
+            "tuy?n b?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "state",
+            "declare",
+            "claim",
+            "proclaim"
+        ]
+    },
+    {
+        "index": 522,
+        "means": [
+            "c? d?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "stationary"
+        ]
+    },
+    {
+        "index": 523,
+        "means": [
+            "van ph?ng ph?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "stationery",
+            "office suppliers"
+        ]
+    },
+    {
+        "index": 524,
+        "means": [
+            "d?u d?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "steadily"
+        ]
+    },
+    {
+        "index": 525,
+        "means": [
+            "bu?c xu?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "step down",
+            "get off"
+        ]
+    },
+    {
+        "index": 526,
+        "means": [
+            "s? kh?ch l?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "stimulus"
+        ]
+    },
+    {
+        "index": 527,
+        "means": [
+            "gh? d?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "stool"
+        ]
+    },
+    {
+        "index": 528,
+        "means": [
+            "gh? qua"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "stop by",
+            "drop by"
+        ]
+    },
+    {
+        "index": 529,
+        "means": [
+            "kho h?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "storage room",
+            "stockroom",
+            "shed",
+            "warehouse"
+        ]
+    },
+    {
+        "index": 530,
+        "means": [
+            "c? quy lu?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "strategically"
+        ]
+    },
+    {
+        "index": 531,
+        "means": [
+            "s?p x?p h?p l?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "streamlined"
+        ]
+    },
+    {
+        "index": 532,
+        "means": [
+            "l?m m?nh",
+            "c?i ti?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "strengthen"
+        ]
+    },
+    {
+        "index": 533,
+        "means": [
+            "kh?t khe"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "strict"
+        ]
+    },
+    {
+        "index": 534,
+        "means": [
+            "d?u tranh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "struggle"
+        ]
+    },
+    {
+        "index": 535,
+        "means": [
+            "tu?n theo",
+            "t?y thu?c v?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "subject to N"
+        ]
+    },
+    {
+        "index": 536,
+        "means": [
+            "n?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "submit",
+            "file",
+            "turn in",
+            "hand in"
+        ]
+    },
+    {
+        "index": 537,
+        "means": [
+            "ti?p qu?n",
+            "k? nhi?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "succeed",
+            "take over",
+            "inherit"
+        ]
+    },
+    {
+        "index": 538,
+        "means": [
+            "li?n ti?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "successive"
+        ]
+    },
+    {
+        "index": 539,
+        "means": [
+            "d?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "sufficiant",
+            "enough",
+            "adequate",
+            "ample"
+        ]
+    },
+    {
+        "index": 540,
+        "means": [
+            "d? xu?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "suggest"
+        ]
+    },
+    {
+        "index": 541,
+        "means": [
+            "ph? h?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "suitable",
+            "appropriate",
+            "pertinent",
+            "relevant"
+        ]
+    },
+    {
+        "index": 542,
+        "means": [
+            "t?m t?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "summary"
+        ]
+    },
+    {
+        "index": 543,
+        "means": [
+            "kh?o s?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "survey"
+        ]
+    },
+    {
+        "index": 544,
+        "means": [
+            "treo l?n",
+            "lo l?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "suspend"
+        ]
+    },
+    {
+        "index": 545,
+        "means": [
+            "ch?u d?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "sustain"
+        ]
+    },
+    {
+        "index": 546,
+        "means": [
+            "chuy?n d?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "switch to"
+        ]
+    },
+    {
+        "index": 547,
+        "means": [
+            "b? d? d?ng tr?n b?n an"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "table ware"
+        ]
+    },
+    {
+        "index": 548,
+        "means": [
+            "s?a ch?a theo y?u c?u ri?ng",
+            "th? may"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "tailor"
+        ]
+    },
+    {
+        "index": 549,
+        "means": [
+            "tranh th?",
+            "t?n d?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "take advantage of",
+            "make use of "
+        ]
+    },
+    {
+        "index": 550,
+        "means": [
+            "tham gia"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "take part in",
+            "join",
+            "enter"
+        ]
+    },
+    {
+        "index": 551,
+        "means": [
+            "c? tr?ch nhi?m l?m g?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "take responsibility for N",
+            "in charge of",
+            "be responsible for"
+        ]
+    },
+    {
+        "index": 552,
+        "means": [
+            "gi?n do?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "temporarily"
+        ]
+    },
+    {
+        "index": 553,
+        "means": [
+            "ngu?i thu? nh?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "tenant"
+        ]
+    },
+    {
+        "index": 554,
+        "means": [
+            "l?m ch?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "testify"
+        ]
+    },
+    {
+        "index": 555,
+        "means": [
+            "d?n d?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "tidy"
+        ]
+    },
+    {
+        "index": 556,
+        "means": [
+            "c? v?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "tie"
+        ]
+    },
+    {
+        "index": 557,
+        "means": [
+            "bu?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "tie",
+            "fasten",
+            "secure"
+        ]
+    },
+    {
+        "index": 558,
+        "means": [
+            "hu?ng v? "
+        ],
+        "notes": [
+        ],
+        "words": [
+            "toward"
+        ]
+    },
+    {
+        "index": 559,
+        "means": [
+            "ph? d?ng kh?a h?c ? tru?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "tuition fee"
+        ]
+    },
+    {
+        "index": 560,
+        "means": [
+            "h?m"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "tunnel"
+        ]
+    },
+    {
+        "index": 561,
+        "means": [
+            "s? tham gia"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "turnout",
+            "attendance"
+        ]
+    },
+    {
+        "index": 562,
+        "means": [
+            "d?c trung hay di?n ra"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "typically"
+        ]
+    },
+    {
+        "index": 563,
+        "means": [
+            "th?ng thu?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "typically + M? ",
+            "normally"
+        ]
+    },
+    {
+        "index": 564,
+        "means": [
+            "bsi t?m l?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "therapist"
+        ]
+    },
+    {
+        "index": 565,
+        "means": [
+            "b? di?u khi?n nhi?t d?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "thermostat"
+        ]
+    },
+    {
+        "index": 566,
+        "means": [
+            "c?n tr?ng",
+            "to?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "thorough"
+        ]
+    },
+    {
+        "index": 567,
+        "means": [
+            "xuy?n qua"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "through"
+        ]
+    },
+    {
+        "index": 568,
+        "means": [
+            "tr?n kh?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "throughtout"
+        ]
+    },
+    {
+        "index": 569,
+        "means": [
+            "du?ng m?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "trail"
+        ]
+    },
+    {
+        "index": 570,
+        "means": [
+            "d?c t?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "trait"
+        ]
+    },
+    {
+        "index": 571,
+        "means": [
+            "chuy?n kho?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "transfer"
+        ]
+    },
+    {
+        "index": 572,
+        "means": [
+            "s? minh b?ch"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "transparency"
+        ]
+    },
+    {
+        "index": 573,
+        "means": [
+            "x?t x?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "trial"
+        ]
+    },
+    {
+        "index": 574,
+        "means": [
+            "x? l? s? c?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "troubleshooting"
+        ]
+    },
+    {
+        "index": 575,
+        "means": [
+            "nh?t tr?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "unanimously"
+        ]
+    },
+    {
+        "index": 576,
+        "means": [
+            "ch?u"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "undergo",
+            "suffer",
+            "sustain",
+            "go through"
+        ]
+    },
+    {
+        "index": 577,
+        "means": [
+            "v? ?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "unintentionally"
+        ]
+    },
+    {
+        "index": 578,
+        "means": [
+            "n?u kh?ng",
+            "tr? khi"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "unless"
+        ]
+    },
+    {
+        "index": 579,
+        "means": [
+            "kh?ng th?",
+            "kh?ng ch?c"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "unlikely to V"
+        ]
+    },
+    {
+        "index": 580,
+        "means": [
+            "kh?ng th? do?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "unpredicted",
+            "unforeseen",
+            "impenetrable"
+        ]
+    },
+    {
+        "index": 581,
+        "means": [
+            "cao c?p"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "upscale"
+        ]
+    },
+    {
+        "index": 582,
+        "means": [
+            "g?p r?t"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "urgently"
+        ]
+    },
+    {
+        "index": 583,
+        "means": [
+            "s? d?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "utiliz"
+        ]
+    },
+    {
+        "index": 584,
+        "means": [
+            "ch? tr?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "vacancy",
+            "slot",
+            "opening"
+        ]
+    },
+    {
+        "index": 585,
+        "means": [
+            "mo h?"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "vaguely"
+        ]
+    },
+    {
+        "index": 586,
+        "means": [
+            "m?nh m?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "vast"
+        ]
+    },
+    {
+        "index": 587,
+        "means": [
+            "k gian cho s? ki?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "venue"
+        ]
+    },
+    {
+        "index": 588,
+        "means": [
+            "h?p onl"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "video-conference",
+            "virtual meeting/conference"
+        ]
+    },
+    {
+        "index": 589,
+        "means": [
+            "b?o h?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "warranty",
+            "guarantee"
+        ]
+    },
+    {
+        "index": 590,
+        "means": [
+            "b? s?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "waterfront"
+        ]
+    },
+    {
+        "index": 591,
+        "means": [
+            "s? lu?ng l?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "wealth"
+        ]
+    },
+    {
+        "index": 592,
+        "means": [
+            "ch?o d?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "welcome",
+            "greet"
+        ]
+    },
+    {
+        "index": 593,
+        "means": [
+            "h?n kim lo?i"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "weld"
+        ]
+    },
+    {
+        "index": 594,
+        "means": [
+            "n?i ti?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "wel-known",
+            "renowned",
+            "famous",
+            "celebrated"
+        ]
+    },
+    {
+        "index": 595,
+        "means": [
+            "trong khi"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "while",
+            "whereas"
+        ]
+    },
+    {
+        "index": 596,
+        "means": [
+            "nh? cung c?p s? lu?ng l?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "wholesalr distributor"
+        ]
+    },
+    {
+        "index": 597,
+        "means": [
+            "lan r?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "widespread"
+        ]
+    },
+    {
+        "index": 598,
+        "means": [
+            "s? s?n l?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "willingness"
+        ]
+    },
+    {
+        "index": 599,
+        "means": [
+            "k?nh ch?n gi? xe hoi"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "windshield"
+        ]
+    },
+    {
+        "index": 600,
+        "means": [
+            "lau b?ng khan/tay"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "wip"
+        ]
+    },
+    {
+        "index": 601,
+        "means": [
+            "h?p t?c c?ng"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "work with",
+            "partner with",
+            "collaborate",
+            "team up with",
+            "pair up with"
+        ]
+    },
+    {
+        "index": 602,
+        "means": [
+            "c?nh b?o"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "alert"
+        ]
+    },
+    {
+        "index": 603,
+        "means": [
+            "trung th?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "loyal"
+        ]
+    },
+    {
+        "index": 604,
+        "means": [
+            "chuy?n th?nh"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "convert"
+        ]
+    },
+    {
+        "index": 605,
+        "means": [
+            "k? h?n",
+            "di?u kho?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "term"
+        ]
+    },
+    {
+        "index": 606,
+        "means": [
+            "s? d?i m?i",
+            "s? gia h?n"
+        ],
+        "notes": [
+        ],
+        "words": [
+            "renewal"
+        ]
+    }
+]
