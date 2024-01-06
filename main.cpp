@@ -7,7 +7,7 @@
 #include <QMap>
 #include "xlsxdocument.h"
 
-#define PATH_LOCAL "C:/Users/PVD/Documents/Convert_Excel2Json/Data"
+#define PATH_LOCAL "/home/nct/TungNC2/Convert_Excel2Json/Data"
 
 using namespace QXlsx;
 
@@ -38,7 +38,7 @@ void convertData(QString path)
         }
         obj["words"] = arrEng;
         obj["means"] = arrVn;
-        obj["notes"] = arrNote;
+        obj["notes"] = "";
         arr.append(obj);
         row++;
     } while (data.read( row, 1).toString() != "");

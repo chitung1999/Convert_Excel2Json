@@ -2,10 +2,9 @@
     {
         "index": 0,
         "means": [
-            "v?"
+            "về"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "about",
             "regarding",
@@ -16,10 +15,9 @@
     {
         "index": 1,
         "means": [
-            "tuy?t d?i"
+            "tuyệt đối"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "absolute"
         ]
@@ -27,10 +25,9 @@
     {
         "index": 2,
         "means": [
-            "th?m h?t t?t"
+            "thấm hút tốt"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "absorbent"
         ]
@@ -38,11 +35,10 @@
     {
         "index": 3,
         "means": [
-            "di v?o",
-            "truy c?p"
+            "đi vào",
+            "truy cập"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "access",
             "enter"
@@ -51,10 +47,9 @@
     {
         "index": 4,
         "means": [
-            "ph? ki?n"
+            "phụ kiện"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "accessory"
         ]
@@ -62,10 +57,9 @@
     {
         "index": 5,
         "means": [
-            "ch? ?"
+            "chỗ ở"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "accommodate",
             "dwelling"
@@ -74,10 +68,9 @@
     {
         "index": 6,
         "means": [
-            "ho?n th?nh"
+            "hoàn thành"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "accomplish",
             "finalize"
@@ -86,10 +79,9 @@
     {
         "index": 7,
         "means": [
-            "gi?i"
+            "giỏi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "accomplished",
             "skillful",
@@ -100,11 +92,10 @@
     {
         "index": 8,
         "means": [
-            "c? du?c",
-            "ti?p thu"
+            "có được",
+            "tiếp thu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "acquire"
         ]
@@ -112,10 +103,9 @@
     {
         "index": 9,
         "means": [
-            "mua(doanh nghi?p)"
+            "mua(doanh nghiệp)"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "acquire"
         ]
@@ -123,10 +113,9 @@
     {
         "index": 10,
         "means": [
-            "d?"
+            "đủ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "adequate",
             "sufficient",
@@ -136,10 +125,9 @@
     {
         "index": 11,
         "means": [
-            "y?u th?ch"
+            "yêu thích"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "adore"
         ]
@@ -147,10 +135,9 @@
     {
         "index": 12,
         "means": [
-            "?nh hu?ng"
+            "ảnh hưởng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "affect"
         ]
@@ -158,11 +145,10 @@
     {
         "index": 13,
         "means": [
-            "c? th?",
+            "có thể",
             "cho"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "afford"
         ]
@@ -170,10 +156,9 @@
     {
         "index": 14,
         "means": [
-            "ph?i chang"
+            "phải chăng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "affordable",
             "resonable"
@@ -182,10 +167,9 @@
     {
         "index": 15,
         "means": [
-            "sau d?"
+            "sau đó"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "afterward"
         ]
@@ -193,10 +177,9 @@
     {
         "index": 16,
         "means": [
-            "ngu?c l?i"
+            "ngược lại"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "against"
         ]
@@ -204,10 +187,9 @@
     {
         "index": 17,
         "means": [
-            "n?i dung chuong tr?nh"
+            "nội dung chương trình"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "agenda"
         ]
@@ -215,10 +197,9 @@
     {
         "index": 18,
         "means": [
-            "m?y bay"
+            "máy bay"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "aircraft",
             "plane",
@@ -229,10 +210,9 @@
     {
         "index": 19,
         "means": [
-            "nh? gi? kim"
+            "nhà giả kim"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "alchemist"
         ]
@@ -240,10 +220,9 @@
     {
         "index": 20,
         "means": [
-            "can ch?nh"
+            "căn chỉnh"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "align"
         ]
@@ -251,10 +230,9 @@
     {
         "index": 21,
         "means": [
-            "thay th?"
+            "thay thế"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "alternative",
             "replacement",
@@ -264,10 +242,9 @@
     {
         "index": 22,
         "means": [
-            "ph?n t?ch"
+            "phân tích"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "analyze"
         ]
@@ -275,10 +252,9 @@
     {
         "index": 23,
         "means": [
-            "c? k?nh"
+            "cổ kính"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "ancient"
         ]
@@ -286,10 +262,9 @@
     {
         "index": 24,
         "means": [
-            "ch? th?ch"
+            "chú thích"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "annotation"
         ]
@@ -297,10 +272,9 @@
     {
         "index": 25,
         "means": [
-            "trang ph?c"
+            "trang phục"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "apparel",
             "garment",
@@ -311,10 +285,9 @@
     {
         "index": 26,
         "means": [
-            "h?nh nhu"
+            "hình như"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "apparently"
         ]
@@ -322,10 +295,9 @@
     {
         "index": 27,
         "means": [
-            "thu h?t"
+            "thu hút"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "appeal to"
         ]
@@ -333,10 +305,9 @@
     {
         "index": 28,
         "means": [
-            "th?a hi?p"
+            "thỏa hiệp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "appease",
             "compromise"
@@ -347,8 +318,7 @@
         "means": [
             "ngon"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "appetizing",
             "delicious"
@@ -357,11 +327,10 @@
     {
         "index": 30,
         "means": [
-            "b? nhi?m",
-            "ch? d?nh"
+            "bổ nhiệm",
+            "chỉ định"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "appoint"
         ]
@@ -369,11 +338,10 @@
     {
         "index": 31,
         "means": [
-            "c?m k?ch",
-            "d?nh gi? cao"
+            "cảm kích",
+            "đánh giá cao"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "appreciate"
         ]
@@ -381,10 +349,9 @@
     {
         "index": 32,
         "means": [
-            "dang d?n g?n"
+            "đang đến gần"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "approaching"
         ]
@@ -392,10 +359,9 @@
     {
         "index": 33,
         "means": [
-            "b? nu?i c?"
+            "bể nuôi cá"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "aquarium"
         ]
@@ -403,10 +369,9 @@
     {
         "index": 34,
         "means": [
-            "ki?n tr?c"
+            "kiến trúc"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "architect"
         ]
@@ -414,10 +379,9 @@
     {
         "index": 35,
         "means": [
-            "du?c cho l?"
+            "được cho là"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "arguably"
         ]
@@ -425,10 +389,9 @@
     {
         "index": 36,
         "means": [
-            "cung"
+            "cũng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "as well",
             "also",
@@ -438,10 +401,9 @@
     {
         "index": 37,
         "means": [
-            "kh?a c?nh"
+            "khía cạnh"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "aspect",
             "part"
@@ -450,10 +412,9 @@
     {
         "index": 38,
         "means": [
-            "kh?t khao l?m g?"
+            "khát khao làm gì"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "aspire ",
             "desire to V"
@@ -462,10 +423,9 @@
     {
         "index": 39,
         "means": [
-            "d?y tham v?ng"
+            "đầy tham vọng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "aspiring ",
             "ambitious"
@@ -474,11 +434,10 @@
     {
         "index": 40,
         "means": [
-            "l?p r?p",
-            "t?p h?p"
+            "lắp ráp",
+            "tập hợp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "assembly",
             "gathering"
@@ -487,10 +446,9 @@
     {
         "index": 41,
         "means": [
-            "kh?ng d?nh"
+            "khẳng định"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "asserting"
         ]
@@ -498,10 +456,9 @@
     {
         "index": 42,
         "means": [
-            "s? x?c nh?n"
+            "sự xác nhận"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "assertion"
         ]
@@ -509,11 +466,10 @@
     {
         "index": 43,
         "means": [
-            "ch? d?nh",
-            "giao ph?"
+            "chỉ định",
+            "giao phó"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "assign"
         ]
@@ -521,10 +477,9 @@
     {
         "index": 44,
         "means": [
-            "c?ng t?c vi?n"
+            "cộng tác viên"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "associate"
         ]
@@ -532,10 +487,9 @@
     {
         "index": 45,
         "means": [
-            "d?m b?o"
+            "đảm bảo"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "assure"
         ]
@@ -543,10 +497,9 @@
     {
         "index": 46,
         "means": [
-            "b?y gi?"
+            "bây giờ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "at present",
             "at the moment",
@@ -558,10 +511,9 @@
     {
         "index": 47,
         "means": [
-            "cu?i c?ng"
+            "cuối cùng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "at the end",
             "finally",
@@ -572,10 +524,9 @@
     {
         "index": 48,
         "means": [
-            "d?nh k?m"
+            "đính kèm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "attach"
         ]
@@ -583,10 +534,9 @@
     {
         "index": 49,
         "means": [
-            "n? l?c"
+            "nỗ lực"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "attempt",
             "effort"
@@ -595,11 +545,10 @@
     {
         "index": 50,
         "means": [
-            "g?n cho",
+            "gán cho",
             "quy cho"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "attribute to"
         ]
@@ -607,10 +556,9 @@
     {
         "index": 51,
         "means": [
-            "v?n d?ng vi?n"
+            "vận động viên"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "athlete"
         ]
@@ -618,10 +566,9 @@
     {
         "index": 52,
         "means": [
-            "kh?n ph?ng"
+            "khán phòng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "auditorium"
         ]
@@ -629,10 +576,9 @@
     {
         "index": 53,
         "means": [
-            "b? sung"
+            "bổ sung"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "augmented"
         ]
@@ -640,10 +586,9 @@
     {
         "index": 54,
         "means": [
-            "? t?"
+            "ô tô"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "automobile",
             "car",
@@ -653,10 +598,9 @@
     {
         "index": 55,
         "means": [
-            "?y quy?n"
+            "ủy quyền"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "authorize"
         ]
@@ -664,10 +608,9 @@
     {
         "index": 56,
         "means": [
-            "d?i l?"
+            "đại lộ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "avenue"
         ]
@@ -675,10 +618,9 @@
     {
         "index": 57,
         "means": [
-            "nh?n th?c du?c"
+            "nhận thức được"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "aware of"
         ]
@@ -686,10 +628,9 @@
     {
         "index": 58,
         "means": [
-            "c?m"
+            "cấm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "ban",
             "forbid",
@@ -699,10 +640,9 @@
     {
         "index": 59,
         "means": [
-            "chu?ng tr?i"
+            "chuồng trại"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "barn"
         ]
@@ -710,10 +650,9 @@
     {
         "index": 60,
         "means": [
-            "r?"
+            "rổ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "basket"
         ]
@@ -723,8 +662,7 @@
         "means": [
             "pin"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "battery"
         ]
@@ -732,10 +670,9 @@
     {
         "index": 62,
         "means": [
-            "du?c tin tu?ng, t?n nhi?m l?m g?"
+            "được tin tưởng, tín nhiệm làm gì"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "be credited with Ving"
         ]
@@ -743,10 +680,9 @@
     {
         "index": 63,
         "means": [
-            "c? kh? nang"
+            "có khả năng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "be likely to V"
         ]
@@ -754,10 +690,9 @@
     {
         "index": 64,
         "means": [
-            "c? th? ch?u d?ng du?c"
+            "có thể chịu đựng được"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "bearable"
         ]
@@ -765,11 +700,10 @@
     {
         "index": 65,
         "means": [
-            "c?i ngu?i",
-            "g?p ngu?i"
+            "cúi người",
+            "gập người"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "bend over"
         ]
@@ -777,10 +711,9 @@
     {
         "index": 66,
         "means": [
-            "c? ?ch"
+            "có ích"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "benificial"
         ]
@@ -788,10 +721,9 @@
     {
         "index": 67,
         "means": [
-            "cay d?ng"
+            "cay đắng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "bitterness"
         ]
@@ -799,10 +731,9 @@
     {
         "index": 68,
         "means": [
-            "t? h?o khi c? g?"
+            "tự hào khi có gì"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "boast"
         ]
@@ -810,10 +741,9 @@
     {
         "index": 69,
         "means": [
-            "l?m tang"
+            "làm tăng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "boost up"
         ]
@@ -821,10 +751,9 @@
     {
         "index": 70,
         "means": [
-            "m? r?ng"
+            "mở rộng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "broaden"
         ]
@@ -832,10 +761,9 @@
     {
         "index": 71,
         "means": [
-            "h?p d?n"
+            "hấp dẫn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "captivating"
         ]
@@ -843,10 +771,9 @@
     {
         "index": 72,
         "means": [
-            "chi?m"
+            "chiếm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "capture"
         ]
@@ -854,10 +781,9 @@
     {
         "index": 73,
         "means": [
-            "quy?n s? h?u xe"
+            "quyền sở hữu xe"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "car tittle"
         ]
@@ -865,10 +791,9 @@
     {
         "index": 74,
         "means": [
-            "chu d?o"
+            "chu đáo"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "caring"
         ]
@@ -876,10 +801,9 @@
     {
         "index": 75,
         "means": [
-            "th?m to tr?i s?n"
+            "thảm to trải sàn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "carpet"
         ]
@@ -887,11 +811,10 @@
     {
         "index": 76,
         "means": [
-            "lo?i",
-            "danh m?c"
+            "loại",
+            "danh mục"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "category"
         ]
@@ -899,10 +822,9 @@
     {
         "index": 77,
         "means": [
-            "danh m?c "
+            "danh mục "
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "directory"
         ]
@@ -910,10 +832,9 @@
     {
         "index": 78,
         "means": [
-            "chuy?n gia (adj)"
+            "chuyên gia (adj)"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "certified"
         ]
@@ -921,10 +842,9 @@
     {
         "index": 79,
         "means": [
-            "x?c nh?n"
+            "xác nhận"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "certify"
         ]
@@ -932,10 +852,9 @@
     {
         "index": 80,
         "means": [
-            "luu h?nh"
+            "lưu hành"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "circulate"
         ]
@@ -943,10 +862,9 @@
     {
         "index": 81,
         "means": [
-            "v? tr?"
+            "vị trí"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "circumstance",
             "situation"
@@ -955,10 +873,9 @@
     {
         "index": 82,
         "means": [
-            "nh?n vi?n"
+            "nhân viên"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "clerk"
         ]
@@ -966,10 +883,9 @@
     {
         "index": 83,
         "means": [
-            "l?m s?ng"
+            "lâm sàng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "clinical"
         ]
@@ -977,10 +893,9 @@
     {
         "index": 84,
         "means": [
-            "ven bi?n"
+            "ven biển"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "coastal"
         ]
@@ -988,10 +903,9 @@
     {
         "index": 85,
         "means": [
-            "d?ng nghi?p"
+            "đồng nghiệp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "colleage",
             "coworker",
@@ -1001,10 +915,9 @@
     {
         "index": 86,
         "means": [
-            "k?t h?p v?i"
+            "kết hợp với"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "combined with"
         ]
@@ -1012,10 +925,9 @@
     {
         "index": 87,
         "means": [
-            "h?a l?m g?"
+            "hứa làm gì"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "commit Ving"
         ]
@@ -1023,10 +935,9 @@
     {
         "index": 88,
         "means": [
-            "s? cam k?t"
+            "sự cam kết"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "commitment"
         ]
@@ -1034,11 +945,10 @@
     {
         "index": 89,
         "means": [
-            "s? k?t n?i",
-            "giao ti?p"
+            "sự kết nối",
+            "giao tiếp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "communication"
         ]
@@ -1046,10 +956,9 @@
     {
         "index": 90,
         "means": [
-            "truy?n th?ng"
+            "truyền thông"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "communications"
         ]
@@ -1057,10 +966,9 @@
     {
         "index": 91,
         "means": [
-            "d?n b?"
+            "đền bù"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "compensation"
         ]
@@ -1068,10 +976,9 @@
     {
         "index": 92,
         "means": [
-            "c?nh tranh"
+            "cạnh tranh"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "compete"
         ]
@@ -1079,11 +986,10 @@
     {
         "index": 93,
         "means": [
-            "th?nh ph?n",
-            "t? h?p"
+            "thành phần",
+            "tổ hợp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "composition"
         ]
@@ -1091,10 +997,9 @@
     {
         "index": 94,
         "means": [
-            "to?n di?n"
+            "toàn diện"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "comprehensive"
         ]
@@ -1102,10 +1007,9 @@
     {
         "index": 95,
         "means": [
-            "ng?n g?n"
+            "ngắn gọn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "concise",
             "brieaf"
@@ -1114,10 +1018,9 @@
     {
         "index": 96,
         "means": [
-            "ti?n h?nh"
+            "tiến hành"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "conduct",
             "fulfill",
@@ -1128,10 +1031,9 @@
     {
         "index": 97,
         "means": [
-            "b? m?t"
+            "bí mật"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "confidential"
         ]
@@ -1139,10 +1041,9 @@
     {
         "index": 98,
         "means": [
-            "d?i m?t"
+            "đối mặt"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "confront",
             "face to"
@@ -1151,10 +1052,9 @@
     {
         "index": 99,
         "means": [
-            "s? hi?u l?m"
+            "sự hiểu lầm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "confusion"
         ]
@@ -1162,10 +1062,9 @@
     {
         "index": 100,
         "means": [
-            "li?n ti?p"
+            "liên tiếp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "consecutive"
         ]
@@ -1173,10 +1072,9 @@
     {
         "index": 101,
         "means": [
-            "do d?"
+            "do đó"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "consequently"
         ]
@@ -1184,10 +1082,9 @@
     {
         "index": 102,
         "means": [
-            "th?n tr?ng"
+            "thận trọng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "conservative"
         ]
@@ -1195,10 +1092,9 @@
     {
         "index": 103,
         "means": [
-            "d?ng k?"
+            "đáng kể"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "considerable",
             "significant",
@@ -1208,10 +1104,9 @@
     {
         "index": 104,
         "means": [
-            "th?n tr?ng"
+            "thận trọng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "considerate"
         ]
@@ -1219,10 +1114,9 @@
     {
         "index": 105,
         "means": [
-            "r? r?ng"
+            "rõ ràng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "conspicuously"
         ]
@@ -1230,10 +1124,9 @@
     {
         "index": 106,
         "means": [
-            "mang t?nh x?y d?ng"
+            "mang tính xây dựng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "constructive"
         ]
@@ -1241,10 +1134,9 @@
     {
         "index": 107,
         "means": [
-            "tham kh?o ? ki?n"
+            "tham khảo ý kiến"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "consult"
         ]
@@ -1252,11 +1144,10 @@
     {
         "index": 108,
         "means": [
-            "h?p th?",
-            "ti?u th?"
+            "hấp thụ",
+            "tiêu thụ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "consume"
         ]
@@ -1264,11 +1155,10 @@
     {
         "index": 109,
         "means": [
-            "h?p d?ng",
-            "k? k?t"
+            "hợp đồng",
+            "ký kết"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "contract"
         ]
@@ -1276,10 +1166,9 @@
     {
         "index": 110,
         "means": [
-            "nh? th?u"
+            "nhà thầu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "contractor"
         ]
@@ -1287,10 +1176,9 @@
     {
         "index": 111,
         "means": [
-            "ngu?i d?ng g?p"
+            "người đóng góp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "contributor"
         ]
@@ -1298,10 +1186,9 @@
     {
         "index": 112,
         "means": [
-            "h?i ngh?"
+            "hội nghị"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "convention"
         ]
@@ -1309,10 +1196,9 @@
     {
         "index": 113,
         "means": [
-            "c? t?nh d?i tho?i"
+            "có tính đối thoại"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "conversational"
         ]
@@ -1320,10 +1206,9 @@
     {
         "index": 114,
         "means": [
-            "chuy?n d?i"
+            "chuyển đổi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "conversion"
         ]
@@ -1331,10 +1216,9 @@
     {
         "index": 115,
         "means": [
-            "h?p t?c"
+            "hợp tác"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "cooperate with"
         ]
@@ -1342,10 +1226,9 @@
     {
         "index": 116,
         "means": [
-            "h?p t?c"
+            "hợp tác"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "cooperative"
         ]
@@ -1353,10 +1236,9 @@
     {
         "index": 117,
         "means": [
-            "di?u ph?i"
+            "điều phối"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "coordinate"
         ]
@@ -1364,11 +1246,10 @@
     {
         "index": 118,
         "means": [
-            "x? l?",
-            "gi?i quy?t"
+            "xử lý",
+            "giải quyết"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "cope with",
             "deal with",
@@ -1381,10 +1262,9 @@
     {
         "index": 119,
         "means": [
-            "c?t l?i"
+            "cốt lõi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "core"
         ]
@@ -1392,10 +1272,9 @@
     {
         "index": 120,
         "means": [
-            "ph? h?p"
+            "phù hợp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "correspond with"
         ]
@@ -1403,24 +1282,22 @@
     {
         "index": 121,
         "means": [
-            "gi?"
+            "giá"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "cost",
             "price",
             "rate",
-            "expense: gi?"
+            "expense: giá"
         ]
     },
     {
         "index": 122,
         "means": [
-            "t?nh to?n"
+            "tính toán"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "count",
             "calculate"
@@ -1429,10 +1306,9 @@
     {
         "index": 123,
         "means": [
-            "l?ng can d?m"
+            "lòng can đảm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "courage"
         ]
@@ -1440,10 +1316,9 @@
     {
         "index": 124,
         "means": [
-            "nvien giao h?ng"
+            "nvien giao hàng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "courier"
         ]
@@ -1451,10 +1326,9 @@
     {
         "index": 125,
         "means": [
-            "s?n th? thao"
+            "sân thể thao"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "court"
         ]
@@ -1462,10 +1336,9 @@
     {
         "index": 126,
         "means": [
-            "t?o ra"
+            "tạo ra"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "creat"
         ]
@@ -1473,10 +1346,9 @@
     {
         "index": 127,
         "means": [
-            "s?ng t?o"
+            "sáng tạo"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "innovative"
         ]
@@ -1484,10 +1356,9 @@
     {
         "index": 128,
         "means": [
-            "s?ng t?o"
+            "sáng tạo"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "creative"
         ]
@@ -1495,10 +1366,9 @@
     {
         "index": 129,
         "means": [
-            "ti?u chu?n"
+            "tiêu chuẩn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "criteria",
             "standard"
@@ -1507,10 +1377,9 @@
     {
         "index": 130,
         "means": [
-            "nh? ph? b?nh"
+            "nhà phê bình"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "critic"
         ]
@@ -1518,10 +1387,9 @@
     {
         "index": 131,
         "means": [
-            "ch? tr?ch"
+            "chỉ trích"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "critical"
         ]
@@ -1529,11 +1397,10 @@
     {
         "index": 132,
         "means": [
-            "m?t c?ch ph? ph?n",
-            "nghi?m tr?ng"
+            "một cách phê phán",
+            "nghiêm trọng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "critically"
         ]
@@ -1541,10 +1408,9 @@
     {
         "index": 133,
         "means": [
-            "quan tr?ng"
+            "quan trọng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "crucial",
             "important"
@@ -1553,10 +1419,9 @@
     {
         "index": 134,
         "means": [
-            "theo th?ng l?"
+            "theo thông lệ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "customarily"
         ]
@@ -1564,10 +1429,9 @@
     {
         "index": 135,
         "means": [
-            "l?m theo y?u c?u"
+            "làm theo yêu cầu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "customize"
         ]
@@ -1575,10 +1439,9 @@
     {
         "index": 136,
         "means": [
-            "chu?i c?a h?ng"
+            "chuỗi cửa hàng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "chain store"
         ]
@@ -1586,10 +1449,9 @@
     {
         "index": 137,
         "means": [
-            "d?c di?m"
+            "đặc điểm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "characteristic"
         ]
@@ -1597,10 +1459,9 @@
     {
         "index": 138,
         "means": [
-            "t?nh ph? v?o"
+            "tính phí vào"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "charge to"
         ]
@@ -1608,10 +1469,9 @@
     {
         "index": 139,
         "means": [
-            "t? thi?n"
+            "từ thiện"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "charity"
         ]
@@ -1619,10 +1479,9 @@
     {
         "index": 140,
         "means": [
-            "ki?m tra"
+            "kiểm tra"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "check",
             "test",
@@ -1633,10 +1492,9 @@
     {
         "index": 141,
         "means": [
-            "d?"
+            "đê"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "dam"
         ]
@@ -1644,10 +1502,9 @@
     {
         "index": 142,
         "means": [
-            "b?nh minh"
+            "bình minh"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "dawn"
         ]
@@ -1655,10 +1512,9 @@
     {
         "index": 143,
         "means": [
-            "m?i gi?i"
+            "môi giới"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "dealer"
         ]
@@ -1666,10 +1522,9 @@
     {
         "index": 144,
         "means": [
-            "d?i l?"
+            "đại lý"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "dealership"
         ]
@@ -1677,10 +1532,9 @@
     {
         "index": 145,
         "means": [
-            "ra m?t nh?m nh?c"
+            "ra mắt nhóm nhạc"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "debut"
         ]
@@ -1688,10 +1542,9 @@
     {
         "index": 146,
         "means": [
-            "kh?u tr?"
+            "khấu trừ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "deduct"
         ]
@@ -1699,10 +1552,9 @@
     {
         "index": 147,
         "means": [
-            "th?m h?t"
+            "thâm hụt"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "deficit"
         ]
@@ -1710,10 +1562,9 @@
     {
         "index": 148,
         "means": [
-            "ho?n"
+            "hoãn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "delay",
             "postpone",
@@ -1723,10 +1574,9 @@
     {
         "index": 149,
         "means": [
-            "d?i bi?u"
+            "đại biểu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "delegate"
         ]
@@ -1734,11 +1584,10 @@
     {
         "index": 150,
         "means": [
-            "c?n th?n",
-            "c? ch? ?"
+            "cẩn thận",
+            "có chủ ý"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "deliberate"
         ]
@@ -1746,10 +1595,9 @@
     {
         "index": 151,
         "means": [
-            "gi?i thi?u"
+            "giới thiệu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "demonstration"
         ]
@@ -1757,10 +1605,9 @@
     {
         "index": 152,
         "means": [
-            "ph? thu?c v?o"
+            "phụ thuộc vào"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "depend/rely on"
         ]
@@ -1768,11 +1615,10 @@
     {
         "index": 153,
         "means": [
-            "ti?n d?t c?c",
-            "d?t c?c"
+            "tiền đặt cọc",
+            "đặt cọc"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "deposite"
         ]
@@ -1780,10 +1626,9 @@
     {
         "index": 154,
         "means": [
-            "m? t?"
+            "mô tả"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "describe"
         ]
@@ -1791,10 +1636,9 @@
     {
         "index": 155,
         "means": [
-            "thi?t k?"
+            "thiết kế"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "design"
         ]
@@ -1802,10 +1646,9 @@
     {
         "index": 156,
         "means": [
-            "mang t?nh ph? ho?i"
+            "mang tính phá hoại"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "destructive"
         ]
@@ -1813,11 +1656,10 @@
     {
         "index": 157,
         "means": [
-            "t?ch ra",
-            "ri?ng l?"
+            "tách ra",
+            "riêng lẻ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "detach"
         ]
@@ -1825,10 +1667,9 @@
     {
         "index": 158,
         "means": [
-            "chi ti?t"
+            "chi tiết"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "detail"
         ]
@@ -1836,10 +1677,9 @@
     {
         "index": 159,
         "means": [
-            "hu h?ng"
+            "hư hỏng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "deteriorate",
             "damage"
@@ -1848,10 +1688,9 @@
     {
         "index": 160,
         "means": [
-            "quy?t d?nh"
+            "quyết định"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "determine"
         ]
@@ -1859,10 +1698,9 @@
     {
         "index": 161,
         "means": [
-            "d?o"
+            "đào"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "dig"
         ]
@@ -1870,11 +1708,10 @@
     {
         "index": 162,
         "means": [
-            "?n tu?ng",
-            "h?p d?n"
+            "ấn tượng",
+            "hấp dẫn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "dignify"
         ]
@@ -1882,10 +1719,9 @@
     {
         "index": 163,
         "means": [
-            "cham ch?"
+            "chăm chỉ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "diligently"
         ]
@@ -1893,10 +1729,9 @@
     {
         "index": 164,
         "means": [
-            "v?n chuy?n"
+            "vận chuyển"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "diliver"
         ]
@@ -1904,13 +1739,12 @@
     {
         "index": 165,
         "means": [
-            "tr?c ti?p",
-            "g?i (thu t?)",
-            "ch? du?ng",
-            "hu?ng d?n"
+            "trực tiếp",
+            "gửi (thư từ)",
+            "chỉ đường",
+            "hướng dẫn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "direct"
         ]
@@ -1918,10 +1752,9 @@
     {
         "index": 166,
         "means": [
-            "tr?c ti?p"
+            "trực tiếp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "directly",
             "in person"
@@ -1930,10 +1763,9 @@
     {
         "index": 167,
         "means": [
-            "ti?t l?"
+            "tiết lộ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "disclose"
         ]
@@ -1941,10 +1773,9 @@
     {
         "index": 168,
         "means": [
-            "da d?ng h?a"
+            "đa dạng hóa"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "diversify"
         ]
@@ -1954,8 +1785,7 @@
         "means": [
             "chia"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "divide"
         ]
@@ -1963,10 +1793,9 @@
     {
         "index": 170,
         "means": [
-            "n?i d?a"
+            "nội địa"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "domestic"
         ]
@@ -1974,10 +1803,9 @@
     {
         "index": 171,
         "means": [
-            "chi?m uu th?, th?ng tr?"
+            "chiếm ưu thế, thống trị"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "dominant"
         ]
@@ -1985,10 +1813,9 @@
     {
         "index": 172,
         "means": [
-            "m?nh/ d?ng k?"
+            "mạnh/ đáng kể"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "drastically"
         ]
@@ -1996,10 +1823,9 @@
     {
         "index": 173,
         "means": [
-            "trong su?t"
+            "trong suốt"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "during",
             "throughtout",
@@ -2009,10 +1835,9 @@
     {
         "index": 174,
         "means": [
-            "nhi?m v?"
+            "nhiệm vụ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "duty"
         ]
@@ -2020,10 +1845,9 @@
     {
         "index": 175,
         "means": [
-            "h?o h?c"
+            "háo hức"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "eager"
         ]
@@ -2031,10 +1855,9 @@
     {
         "index": 176,
         "means": [
-            "an m?n"
+            "ăn mòn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "eat away at"
         ]
@@ -2042,10 +1865,9 @@
     {
         "index": 177,
         "means": [
-            "ti?t ki?m"
+            "tiết kiệm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "economical"
         ]
@@ -2053,10 +1875,9 @@
     {
         "index": 178,
         "means": [
-            "h? sinh th?i s?n ph?m"
+            "hệ sinh thái sản phẩm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "ecosystem"
         ]
@@ -2064,10 +1885,9 @@
     {
         "index": 179,
         "means": [
-            "hi?u qu?"
+            "hiệu quả"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "efficient",
             "effective"
@@ -2076,10 +1896,9 @@
     {
         "index": 180,
         "means": [
-            "cu?c b?u c?"
+            "cuộc bầu cử"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "election"
         ]
@@ -2087,10 +1906,9 @@
     {
         "index": 181,
         "means": [
-            "nh? nh?n"
+            "nhã nhặn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "elegant"
         ]
@@ -2098,10 +1916,9 @@
     {
         "index": 182,
         "means": [
-            "c? th? l?m g?"
+            "có thể làm gì"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "eligible for/to do sth ",
             "qualified for/to do sth"
@@ -2110,10 +1927,9 @@
     {
         "index": 183,
         "means": [
-            "kh? th?i c?ng nghi?p"
+            "khí thải công nghiệp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "emission"
         ]
@@ -2121,10 +1937,9 @@
     {
         "index": 184,
         "means": [
-            "nh?n vi?n"
+            "nhân viên"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "employee",
             "personnel",
@@ -2134,10 +1949,9 @@
     {
         "index": 185,
         "means": [
-            "tr?ng"
+            "trống"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "empty",
             "unoccupied",
@@ -2148,10 +1962,9 @@
     {
         "index": 186,
         "means": [
-            "s? dang k?"
+            "sự đăng ký"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "enrollment",
             "registration"
@@ -2160,10 +1973,9 @@
     {
         "index": 187,
         "means": [
-            "doanh nghi?p"
+            "doanh nghiệp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "enterprise"
         ]
@@ -2171,10 +1983,9 @@
     {
         "index": 188,
         "means": [
-            "s? nhi?t t?nh"
+            "sự nhiệt tình"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "enthusieasm"
         ]
@@ -2182,10 +1993,9 @@
     {
         "index": 189,
         "means": [
-            "doanh nh?n"
+            "doanh nhân"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "entrepreneus"
         ]
@@ -2193,10 +2003,9 @@
     {
         "index": 190,
         "means": [
-            "d?ng co"
+            "động cơ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "engine",
             "motor"
@@ -2205,10 +2014,9 @@
     {
         "index": 191,
         "means": [
-            "s? c?i thi?n"
+            "sự cải thiện"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "enhancement",
             "improvement"
@@ -2217,10 +2025,9 @@
     {
         "index": 192,
         "means": [
-            "leo thang (chi ph?)"
+            "leo thang (chi phí)"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "escalating"
         ]
@@ -2228,10 +2035,9 @@
     {
         "index": 193,
         "means": [
-            "thang cu?n"
+            "thang cuốn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "escalator"
         ]
@@ -2239,10 +2045,9 @@
     {
         "index": 194,
         "means": [
-            "d?o d?c"
+            "đạo đức"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "ethical"
         ]
@@ -2250,21 +2055,19 @@
     {
         "index": 195,
         "means": [
-            "hung ph?n"
+            "hưng phấn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
-            "euphoria: hung ph?n"
+            "euphoria: hưng phấn"
         ]
     },
     {
         "index": 196,
         "means": [
-            "d?nh gi?"
+            "đánh giá"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "evaluate",
             "assess"
@@ -2273,10 +2076,9 @@
     {
         "index": 197,
         "means": [
-            "thang m?y"
+            "thang máy"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "evelator",
             "lift"
@@ -2285,10 +2087,9 @@
     {
         "index": 198,
         "means": [
-            "b?ng"
+            "bằng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "evenly",
             "equally"
@@ -2297,10 +2098,9 @@
     {
         "index": 199,
         "means": [
-            "vu?t qu?"
+            "vượt quá"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "exceeded"
         ]
@@ -2308,10 +2108,9 @@
     {
         "index": 200,
         "means": [
-            "b?n c?nh d?/ ngo?i tr?"
+            "bên cạnh đó/ ngoại trừ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "except that",
             "apart from",
@@ -2324,10 +2123,9 @@
     {
         "index": 201,
         "means": [
-            "tuy?t v?i"
+            "tuyệt vời"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "exceptional",
             "outstanding",
@@ -2338,11 +2136,10 @@
     {
         "index": 202,
         "means": [
-            "s? d?c quy?n",
-            "s? ri?ng bi?t"
+            "sự độc quyền",
+            "sự riêng biệt"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "exclusiveness"
         ]
@@ -2350,10 +2147,9 @@
     {
         "index": 203,
         "means": [
-            "nh? di?u h?nh"
+            "nhà điều hành"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "executive",
             "operator"
@@ -2362,10 +2158,9 @@
     {
         "index": 204,
         "means": [
-            "guong m?u"
+            "gương mẫu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "exemplary"
         ]
@@ -2373,10 +2168,9 @@
     {
         "index": 205,
         "means": [
-            "kh? th?i xe c?"
+            "khí thải xe cộ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "exhaust"
         ]
@@ -2384,10 +2178,9 @@
     {
         "index": 206,
         "means": [
-            "m? r?ng"
+            "mở rộng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "expand"
         ]
@@ -2395,10 +2188,9 @@
     {
         "index": 207,
         "means": [
-            "k? v?ng"
+            "kỳ vọng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "expect"
         ]
@@ -2406,10 +2198,9 @@
     {
         "index": 208,
         "means": [
-            "chi ti?u"
+            "chi tiêu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "expenditure"
         ]
@@ -2417,10 +2208,9 @@
     {
         "index": 209,
         "means": [
-            "d?t"
+            "đắt"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "expensive",
             "costly"
@@ -2429,10 +2219,9 @@
     {
         "index": 210,
         "means": [
-            "chuy?n gia"
+            "chuyên gia"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "expert",
             "professional",
@@ -2442,10 +2231,9 @@
     {
         "index": 211,
         "means": [
-            "chuy?n m?n"
+            "chuyên môn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "expertise",
             "specialize"
@@ -2454,10 +2242,9 @@
     {
         "index": 212,
         "means": [
-            "h?t h?n"
+            "hết hạn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "expire"
         ]
@@ -2465,10 +2252,9 @@
     {
         "index": 213,
         "means": [
-            "b?y t?"
+            "bày tỏ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "express"
         ]
@@ -2476,10 +2262,9 @@
     {
         "index": 214,
         "means": [
-            "s? di?n tho?i m? r?ng"
+            "số điện thoại mở rộng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "extension"
         ]
@@ -2487,10 +2272,9 @@
     {
         "index": 215,
         "means": [
-            "s?u r?ng"
+            "sâu rộng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "extensive"
         ]
@@ -2498,10 +2282,9 @@
     {
         "index": 216,
         "means": [
-            "t? ch?c"
+            "tổ chức"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "facilitate",
             "institution"
@@ -2510,10 +2293,9 @@
     {
         "index": 217,
         "means": [
-            "y?u t?"
+            "yếu tố"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "factor"
         ]
@@ -2522,8 +2304,7 @@
         "index": 218,
         "means": [
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "factory floor",
             "worksite",
@@ -2533,10 +2314,9 @@
     {
         "index": 219,
         "means": [
-            "gi?ng vi?n"
+            "giảng viên"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "faculty"
         ]
@@ -2544,11 +2324,10 @@
     {
         "index": 220,
         "means": [
-            "kh?",
-            "c?ng b?ng"
+            "khá",
+            "công bằng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "fairly"
         ]
@@ -2556,10 +2335,9 @@
     {
         "index": 221,
         "means": [
-            "vu?t xa"
+            "vượt xa"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "far ahead of"
         ]
@@ -2567,11 +2345,10 @@
     {
         "index": 222,
         "means": [
-            "thu?n l?i",
-            "thi?n ch?"
+            "thuận lợi",
+            "thiện chí"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "favorable"
         ]
@@ -2579,10 +2356,9 @@
     {
         "index": 223,
         "means": [
-            "t?nh kh? thi"
+            "tính khả thi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "feasibility"
         ]
@@ -2590,12 +2366,11 @@
     {
         "index": 224,
         "means": [
-            "d?c trung ",
-            "mi?u t?",
-            "t?nh nang"
+            "đặc trưng ",
+            "miêu tả",
+            "tính năng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "feature"
         ]
@@ -2603,10 +2378,9 @@
     {
         "index": 225,
         "means": [
-            "th?y"
+            "thấy"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "find",
             "deem"
@@ -2615,10 +2389,9 @@
     {
         "index": 226,
         "means": [
-            "ho?n th?nh"
+            "hoàn thành"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "finish",
             "end",
@@ -2628,10 +2401,9 @@
     {
         "index": 227,
         "means": [
-            "c?ng ty"
+            "công ty"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "firm",
             "corporate",
@@ -2643,10 +2415,9 @@
     {
         "index": 228,
         "means": [
-            "l?i"
+            "lỗi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "flaw",
             "defect",
@@ -2656,10 +2427,9 @@
     {
         "index": 229,
         "means": [
-            "t?p trung v?o"
+            "tập trung vào"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "focus on",
             "concentrate on"
@@ -2668,10 +2438,9 @@
     {
         "index": 230,
         "means": [
-            "g?p"
+            "gấp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "fold"
         ]
@@ -2679,10 +2448,9 @@
     {
         "index": 231,
         "means": [
-            "xe n?ng h?ng"
+            "xe nâng hàng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "folklift"
         ]
@@ -2690,10 +2458,9 @@
     {
         "index": 232,
         "means": [
-            "tu?n theo"
+            "tuân theo"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "follow",
             "comply with",
@@ -2704,12 +2471,11 @@
     {
         "index": 233,
         "means": [
-            "di theo",
-            "theo d?i",
-            "tu?n theo"
+            "đi theo",
+            "theo dõi",
+            "tuân theo"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "follow"
         ]
@@ -2719,21 +2485,19 @@
         "means": [
             "sau"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "following",
-            "affter",
+            "after",
             "subsequent to"
         ]
     },
     {
         "index": 235,
         "means": [
-            "bu?c ai l?m g?"
+            "buộc ai làm gì"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "force sb to do sth"
         ]
@@ -2741,10 +2505,9 @@
     {
         "index": 236,
         "means": [
-            "th?nh l?p"
+            "thành lập"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "form",
             "establish"
@@ -2753,11 +2516,10 @@
     {
         "index": 237,
         "means": [
-            "do?n",
-            "m?nh"
+            "đoạn",
+            "mảnh"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "fragment"
         ]
@@ -2766,10 +2528,9 @@
         "index": 238,
         "means": [
             "mong manh",
-            "d? v?"
+            "dễ vỡ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "fragile"
         ]
@@ -2777,10 +2538,9 @@
     {
         "index": 239,
         "means": [
-            "mi?n ph?"
+            "miễn phí"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "free",
             "at no cost",
@@ -2791,10 +2551,9 @@
     {
         "index": 240,
         "means": [
-            "d?y"
+            "đầy"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "full of",
             "crowded with"
@@ -2803,10 +2562,9 @@
     {
         "index": 241,
         "means": [
-            "ch?c nang"
+            "chức năng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "function"
         ]
@@ -2814,10 +2572,9 @@
     {
         "index": 242,
         "means": [
-            "du?c trang b? n?i th?t"
+            "được trang bị nội thất"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "funish with"
         ]
@@ -2825,10 +2582,9 @@
     {
         "index": 243,
         "means": [
-            "ti?n ?ch b? sung"
+            "tiện ích bổ sung"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "further amenities"
         ]
@@ -2836,10 +2592,9 @@
     {
         "index": 244,
         "means": [
-            "t?p h?p"
+            "tập hợp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "gather",
             "bring together"
@@ -2848,10 +2603,9 @@
     {
         "index": 245,
         "means": [
-            "t?o ra"
+            "tạo ra"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "generate"
         ]
@@ -2859,10 +2613,9 @@
     {
         "index": 246,
         "means": [
-            "th?c s?"
+            "thực sự"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "genuinely"
         ]
@@ -2870,10 +2623,9 @@
     {
         "index": 247,
         "means": [
-            "li?n l?c"
+            "liên lạc"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "get in touch with",
             "call",
@@ -2884,10 +2636,9 @@
     {
         "index": 248,
         "means": [
-            "t?m hi?u"
+            "tìm hiểu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "get information",
             "learn"
@@ -2896,10 +2647,9 @@
     {
         "index": 249,
         "means": [
-            "bu?c -> phuong ti?n"
+            "bước -> phương tiện"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "get into",
             "get on",
@@ -2909,10 +2659,9 @@
     {
         "index": 250,
         "means": [
-            "to?n c?u"
+            "toàn cầu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "globally"
         ]
@@ -2920,21 +2669,20 @@
     {
         "index": 251,
         "means": [
-            "ra m?t"
+            "ra mắt"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
-            "go on"
+            "go on",
+            "premiere"
         ]
     },
     {
         "index": 252,
         "means": [
-            "d?nh gi?"
+            "đánh giá"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "go over",
             "review"
@@ -2943,11 +2691,10 @@
     {
         "index": 253,
         "means": [
-            "c?m quy?n",
-            "cai qu?n"
+            "cầm quyền",
+            "cai quản"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "govern"
         ]
@@ -2955,11 +2702,10 @@
     {
         "index": 254,
         "means": [
-            "ch?p l?y",
-            "n?m l?y"
+            "chộp lấy",
+            "nắm lấy"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "grab"
         ]
@@ -2967,10 +2713,9 @@
     {
         "index": 255,
         "means": [
-            "d?n d?n"
+            "dần dần"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "gradually",
             "incrementally"
@@ -2979,10 +2724,9 @@
     {
         "index": 256,
         "means": [
-            "t?t nghi?p"
+            "tốt nghiệp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "graduate"
         ]
@@ -2990,10 +2734,9 @@
     {
         "index": 257,
         "means": [
-            "s? hi?u bi?t"
+            "sự hiệu biết"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "grasp"
         ]
@@ -3001,10 +2744,9 @@
     {
         "index": 258,
         "means": [
-            "l?ng bi?t on"
+            "lòng biết ơn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "gratitude"
         ]
@@ -3012,10 +2754,9 @@
     {
         "index": 259,
         "means": [
-            "d?t ph?"
+            "đột phá"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "groundbreaking"
         ]
@@ -3023,11 +2764,10 @@
     {
         "index": 260,
         "means": [
-            "d?n d?t",
-            "ch? d?o"
+            "dẫn dắt",
+            "chỉ đạo"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "guide",
             "lead"
@@ -3036,10 +2776,9 @@
     {
         "index": 261,
         "means": [
-            "t?i l?i"
+            "tội lỗi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "guilt"
         ]
@@ -3047,10 +2786,9 @@
     {
         "index": 262,
         "means": [
-            "c?ng b?"
+            "công bố"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "give out"
         ]
@@ -3058,10 +2796,9 @@
     {
         "index": 263,
         "means": [
-            "m?i tru?ng s?ng"
+            "môi trường sống"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "habitat"
         ]
@@ -3069,10 +2806,9 @@
     {
         "index": 264,
         "means": [
-            "h?nh lang"
+            "hành lang"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "hallway",
             "corridor"
@@ -3081,10 +2817,9 @@
     {
         "index": 265,
         "means": [
-            "ng?p ng?ng"
+            "ngập ngừng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "haltingly"
         ]
@@ -3092,10 +2827,9 @@
     {
         "index": 266,
         "means": [
-            "t?i li?u ph?t tay"
+            "tài liệu phát tay"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "handouts"
         ]
@@ -3103,10 +2837,9 @@
     {
         "index": 267,
         "means": [
-            "mu b?o v?"
+            "mũ bảo vệ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "hard hat",
             "safety helmet"
@@ -3115,10 +2848,9 @@
     {
         "index": 268,
         "means": [
-            "thu ho?ch"
+            "thu hoạch"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "harvest"
         ]
@@ -3126,10 +2858,9 @@
     {
         "index": 269,
         "means": [
-            "ngu?i th?a k?"
+            "người thừa kế"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "heir"
         ]
@@ -3137,10 +2868,9 @@
     {
         "index": 270,
         "means": [
-            "mu"
+            "mũ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "helmet"
         ]
@@ -3148,10 +2878,9 @@
     {
         "index": 271,
         "means": [
-            "d?a di?m l?ch s?"
+            "địa điểm lịch sử"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "historic site",
             "historical tourist attraction"
@@ -3160,11 +2889,10 @@
     {
         "index": 272,
         "means": [
-            "th? hi?n k?nh tr?ng",
-            "danh d?"
+            "thể hiện kính trọng",
+            "danh dự"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "honor"
         ]
@@ -3172,10 +2900,9 @@
     {
         "index": 273,
         "means": [
-            "kh?ch s?n"
+            "khách sạn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "hotel",
             "motel",
@@ -3185,10 +2912,9 @@
     {
         "index": 274,
         "means": [
-            "nhung/ tuy nhi?n"
+            "nhưng/ tuy nhiên"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "however",
             "nevertheless",
@@ -3200,10 +2926,9 @@
     {
         "index": 275,
         "means": [
-            "d? ?m"
+            "độ ẩm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "humidity"
         ]
@@ -3211,10 +2936,10 @@
     {
         "index": 276,
         "means": [
-            "nh?n d?ng"
+            "nhận dạng",
+            "nhận biết"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "identify"
         ]
@@ -3222,10 +2947,9 @@
     {
         "index": 277,
         "means": [
-            "n?u"
+            "nếu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "if",
             "providing",
@@ -3237,10 +2961,9 @@
     {
         "index": 278,
         "means": [
-            "t?c d?ng"
+            "tác động"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "impact",
             "affect"
@@ -3249,10 +2972,9 @@
     {
         "index": 279,
         "means": [
-            "d?ng l?c"
+            "động lực"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "impetus"
         ]
@@ -3260,11 +2982,10 @@
     {
         "index": 280,
         "means": [
-            "ho?n th?nh",
-            "th?c hi?n"
+            "hoàn thành",
+            "thực hiện"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "implement"
         ]
@@ -3272,10 +2993,9 @@
     {
         "index": 281,
         "means": [
-            "tr?i v?i"
+            "trái với"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "in contrast",
             "on the other hand",
@@ -3286,10 +3006,9 @@
     {
         "index": 282,
         "means": [
-            "d?i l?i"
+            "đổi lại"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "in exchange/return for"
         ]
@@ -3297,10 +3016,9 @@
     {
         "index": 283,
         "means": [
-            "k?p gi?"
+            "kịp giờ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "in time"
         ]
@@ -3308,10 +3026,9 @@
     {
         "index": 284,
         "means": [
-            "s? khuy?n kh?ch"
+            "sự khuyến khích"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "incentive",
             "encouragement"
@@ -3320,11 +3037,10 @@
     {
         "index": 285,
         "means": [
-            "ch? ra",
-            "bi?u th?"
+            "chỉ ra",
+            "biểu thị"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "indicate"
         ]
@@ -3332,10 +3048,9 @@
     {
         "index": 286,
         "means": [
-            "c? nh?n"
+            "cá nhân"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "individual"
         ]
@@ -3343,10 +3058,9 @@
     {
         "index": 287,
         "means": [
-            "b?t d?u"
+            "bắt đầu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "initate",
             "begin",
@@ -3356,10 +3070,9 @@
     {
         "index": 288,
         "means": [
-            "ban d?u"
+            "ban đầu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "initial"
         ]
@@ -3367,10 +3080,9 @@
     {
         "index": 289,
         "means": [
-            "y?u c?u"
+            "yêu cầu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "inquire/enquire about"
         ]
@@ -3378,10 +3090,9 @@
     {
         "index": 290,
         "means": [
-            "y?u c?u"
+            "yêu cầu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "inquiry/enquiry"
         ]
@@ -3389,10 +3100,9 @@
     {
         "index": 291,
         "means": [
-            "giao d?ch ttin n?i b?"
+            "giao dịch ttin nội bộ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "insider trading"
         ]
@@ -3400,10 +3110,9 @@
     {
         "index": 292,
         "means": [
-            "m?c d?"
+            "mặc dù"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "inspite of",
             "despite",
@@ -3413,11 +3122,10 @@
     {
         "index": 293,
         "means": [
-            "l?p t?c",
-            "d?ng du?c lu?n"
+            "lập tức",
+            "dùng được luôn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "instant"
         ]
@@ -3425,10 +3133,9 @@
     {
         "index": 294,
         "means": [
-            "thay v? "
+            "thay vì "
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "instead of",
             "in place of",
@@ -3438,10 +3145,9 @@
     {
         "index": 295,
         "means": [
-            "hu?ng d?n"
+            "hướng dẫn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "instruct",
             "direct",
@@ -3451,10 +3157,9 @@
     {
         "index": 296,
         "means": [
-            "b?n hdan"
+            "bản hdan"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "instruction",
             "manual"
@@ -3463,10 +3168,9 @@
     {
         "index": 297,
         "means": [
-            "thi?t b?"
+            "thiết bị"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "instrument",
             "equipment",
@@ -3476,11 +3180,10 @@
     {
         "index": 298,
         "means": [
-            "c?ng c?",
-            "nh?c c?"
+            "công cụ",
+            "nhạc cụ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "instrument"
         ]
@@ -3488,10 +3191,9 @@
     {
         "index": 299,
         "means": [
-            "d? d?nh"
+            "dự định"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "intend to V"
         ]
@@ -3499,10 +3201,9 @@
     {
         "index": 300,
         "means": [
-            "v? c?ng"
+            "vô cùng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "intense"
         ]
@@ -3510,10 +3211,9 @@
     {
         "index": 301,
         "means": [
-            "gi?n do?n"
+            "gián đoạn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "interrupt",
             "disturb",
@@ -3524,10 +3224,9 @@
     {
         "index": 302,
         "means": [
-            "k? th?c t?p"
+            "kỳ thực tập"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "intership"
         ]
@@ -3535,10 +3234,9 @@
     {
         "index": 303,
         "means": [
-            "th?n m?t"
+            "thân mật"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "intimately"
         ]
@@ -3546,10 +3244,9 @@
     {
         "index": 304,
         "means": [
-            "h?p d?n"
+            "hấp dẫn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "intriguingly"
         ]
@@ -3557,10 +3254,9 @@
     {
         "index": 305,
         "means": [
-            "gi?i thi?u"
+            "giới thiệu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "introduce"
         ]
@@ -3568,10 +3264,9 @@
     {
         "index": 306,
         "means": [
-            "ph?t minh"
+            "phát minh"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "invent"
         ]
@@ -3579,10 +3274,9 @@
     {
         "index": 307,
         "means": [
-            "h?ng t?n kho"
+            "hàng tồn kho"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "inventory"
         ]
@@ -3590,10 +3284,9 @@
     {
         "index": 308,
         "means": [
-            "di?u tra"
+            "điều tra"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "investigate"
         ]
@@ -3601,10 +3294,9 @@
     {
         "index": 309,
         "means": [
-            "bao g?m"
+            "bao gồm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "involve",
             "include"
@@ -3613,10 +3305,9 @@
     {
         "index": 310,
         "means": [
-            "nguy?n li?u"
+            "nguyên liệu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "ingredient"
         ]
@@ -3624,10 +3315,9 @@
     {
         "index": 311,
         "means": [
-            "b?t thu?ng"
+            "bất thường"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "irregularity"
         ]
@@ -3635,10 +3325,9 @@
     {
         "index": 312,
         "means": [
-            "ph?t h?nh"
+            "phát hành"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "issue",
             "public",
@@ -3649,10 +3338,9 @@
     {
         "index": 313,
         "means": [
-            "chia th?nh t?ng kho?n"
+            "chia thành từng khoản"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "itemize"
         ]
@@ -3660,10 +3348,9 @@
     {
         "index": 314,
         "means": [
-            "li?t k?"
+            "liệt kê"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "itenize"
         ]
@@ -3671,11 +3358,10 @@
     {
         "index": 315,
         "means": [
-            "b? k?t",
-            "b? c?n tr?"
+            "bị kẹt",
+            "bị cản trở"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "jam up"
         ]
@@ -3683,10 +3369,9 @@
     {
         "index": 316,
         "means": [
-            "xem x?t"
+            "xem xét"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "judge"
         ]
@@ -3694,10 +3379,9 @@
     {
         "index": 317,
         "means": [
-            "ch?ng th?c"
+            "chứng thực"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "justify in Ving"
         ]
@@ -3705,10 +3389,9 @@
     {
         "index": 318,
         "means": [
-            "th?ch th?"
+            "thích thú"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "keen on",
             "interested in"
@@ -3717,10 +3400,9 @@
     {
         "index": 319,
         "means": [
-            "s?u s?c"
+            "sâu sắc"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "keen"
         ]
@@ -3728,11 +3410,10 @@
     {
         "index": 320,
         "means": [
-            "gi?",
-            "duy tr?"
+            "giữ",
+            "duy trì"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "keep",
             "stay",
@@ -3742,10 +3423,9 @@
     {
         "index": 321,
         "means": [
-            "thang tr?o"
+            "thang trèo"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "ladder"
         ]
@@ -3753,10 +3433,9 @@
     {
         "index": 322,
         "means": [
-            "c?t/ h? c?nh"
+            "cất/ hạ cánh"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "land >< get off"
         ]
@@ -3764,10 +3443,9 @@
     {
         "index": 323,
         "means": [
-            "d?t du?c"
+            "đạt được"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "land",
             "get",
@@ -3780,10 +3458,9 @@
     {
         "index": 324,
         "means": [
-            "d?t xu?t"
+            "đột xuất"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "last-minute"
         ]
@@ -3791,10 +3468,9 @@
     {
         "index": 325,
         "means": [
-            "g?n d?y"
+            "gần đây"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "lately",
             "recently"
@@ -3803,12 +3479,11 @@
     {
         "index": 326,
         "means": [
-            "ph?t h?nh",
-            "ph?t d?ng",
-            "kh?i d?ng"
+            "phát hành",
+            "phát động",
+            "khởi động"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "launch"
         ]
@@ -3816,10 +3491,9 @@
     {
         "index": 327,
         "means": [
-            "b?i c?"
+            "bãi cỏ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "lawn"
         ]
@@ -3827,10 +3501,9 @@
     {
         "index": 328,
         "means": [
-            "b?i h?c"
+            "bài học"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "lecture"
         ]
@@ -3838,10 +3511,9 @@
     {
         "index": 329,
         "means": [
-            "ph?p l?"
+            "pháp lý"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "legal"
         ]
@@ -3851,8 +3523,7 @@
         "means": [
             "cho vay"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "lend to"
         ]
@@ -3860,10 +3531,9 @@
     {
         "index": 331,
         "means": [
-            "nhu nhau"
+            "như nhau"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "likable"
         ]
@@ -3871,10 +3541,9 @@
     {
         "index": 332,
         "means": [
-            "tuong t?"
+            "tương tự"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "like wise"
         ]
@@ -3882,10 +3551,9 @@
     {
         "index": 333,
         "means": [
-            "ch?t l?ng"
+            "chất lỏng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "liquid"
         ]
@@ -3893,10 +3561,9 @@
     {
         "index": 334,
         "means": [
-            "kho?n vay/ cho vay"
+            "khoản vay/ cho vay"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "loan"
         ]
@@ -3904,10 +3571,9 @@
     {
         "index": 335,
         "means": [
-            "v?n d?ng"
+            "vận động"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "lobby",
             "construct",
@@ -3918,10 +3584,9 @@
     {
         "index": 336,
         "means": [
-            "b?n"
+            "bền"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "long-lasting",
             "durable",
@@ -3931,10 +3596,9 @@
     {
         "index": 337,
         "means": [
-            "nh?n"
+            "nhìn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "look at",
             "see",
@@ -3945,10 +3609,9 @@
     {
         "index": 338,
         "means": [
-            "b?i d?t tr?ng"
+            "bãi đất trống"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "lot"
         ]
@@ -3956,10 +3619,9 @@
     {
         "index": 339,
         "means": [
-            "ph?ng ch?"
+            "phòng chờ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "lounge"
         ]
@@ -3967,10 +3629,9 @@
     {
         "index": 340,
         "means": [
-            "tr?ng l?"
+            "tráng lệ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "magnificent"
         ]
@@ -3978,10 +3639,9 @@
     {
         "index": 341,
         "means": [
-            "ph?ng d?i"
+            "phóng đại"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "magnify"
         ]
@@ -3989,10 +3649,9 @@
     {
         "index": 342,
         "means": [
-            "duy tr?"
+            "duy trì"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "maintain"
         ]
@@ -4000,10 +3659,9 @@
     {
         "index": 343,
         "means": [
-            "da s?"
+            "đa số"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "majority"
         ]
@@ -4011,10 +3669,9 @@
     {
         "index": 344,
         "means": [
-            "c? h?n/ k l?n"
+            "có hạn/ k lớn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "marginally",
             "very slightly"
@@ -4023,10 +3680,9 @@
     {
         "index": 345,
         "means": [
-            "phuong ph?p"
+            "phương pháp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "measure",
             "method"
@@ -4035,10 +3691,9 @@
     {
         "index": 346,
         "means": [
-            "d?p ?ng"
+            "đáp ứng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "meet the deadline",
             "damand"
@@ -4047,10 +3702,9 @@
     {
         "index": 347,
         "means": [
-            "thuong gia"
+            "thương gia"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "merchant"
         ]
@@ -4058,10 +3712,9 @@
     {
         "index": 348,
         "means": [
-            "s?t nh?p"
+            "sát nhập"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "merge"
         ]
@@ -4069,10 +3722,9 @@
     {
         "index": 349,
         "means": [
-            "nh?"
+            "nhỏ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "minor",
             "tiny"
@@ -4081,10 +3733,9 @@
     {
         "index": 350,
         "means": [
-            "thi?u s?"
+            "thiểu số"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "minority"
         ]
@@ -4092,10 +3743,9 @@
     {
         "index": 351,
         "means": [
-            "hi?n d?i"
+            "hiện đại"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "modern",
             "up-to-date",
@@ -4106,10 +3756,9 @@
     {
         "index": 352,
         "means": [
-            "hi?n d?i h?a"
+            "hiện đại hóa"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "modernize"
         ]
@@ -4117,11 +3766,10 @@
     {
         "index": 353,
         "means": [
-            "thay d?i",
-            "di?u ch?nh"
+            "thay đổi",
+            "điều chỉnh"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "modify",
             "change",
@@ -4132,10 +3780,9 @@
     {
         "index": 354,
         "means": [
-            "lau b?ng ch?i lau nh?"
+            "lau bằng chổi lau nhà"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "mop"
         ]
@@ -4143,10 +3790,9 @@
     {
         "index": 355,
         "means": [
-            "tinh th?n"
+            "tinh thần"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "morale"
         ]
@@ -4154,10 +3800,9 @@
     {
         "index": 356,
         "means": [
-            "ph?n l?n"
+            "phần lớn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "mostly",
             "mainly",
@@ -4167,10 +3812,9 @@
     {
         "index": 357,
         "means": [
-            "gi?y an"
+            "giấy ăn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "napkins"
         ]
@@ -4178,10 +3822,9 @@
     {
         "index": 358,
         "means": [
-            "thu h?p"
+            "thu hẹp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "narrow"
         ]
@@ -4189,10 +3832,9 @@
     {
         "index": 359,
         "means": [
-            "thi?t b? d?nh v?"
+            "thiết bị định vị"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "navigational tool"
         ]
@@ -4200,11 +3842,10 @@
     {
         "index": 360,
         "means": [
-            "x?p x?",
-            "g?n"
+            "xấp xỉ",
+            "gần"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "nearly",
             "almost",
@@ -4216,10 +3857,9 @@
     {
         "index": 361,
         "means": [
-            "ti?u c?c"
+            "tiêu cực"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "negative"
         ]
@@ -4227,10 +3867,9 @@
     {
         "index": 362,
         "means": [
-            "d?m ph?n"
+            "đàm phán"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "negotiate"
         ]
@@ -4238,10 +3877,9 @@
     {
         "index": 363,
         "means": [
-            "qu?y b?o"
+            "quầy báo"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "newstand"
         ]
@@ -4249,10 +3887,9 @@
     {
         "index": 364,
         "means": [
-            "d? c?"
+            "đề cử"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "nominate"
         ]
@@ -4260,10 +3897,9 @@
     {
         "index": 365,
         "means": [
-            "m?i l?"
+            "mới lạ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "novel"
         ]
@@ -4271,10 +3907,9 @@
     {
         "index": 366,
         "means": [
-            "nhi?u"
+            "nhiều"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "numerous"
         ]
@@ -4282,10 +3917,9 @@
     {
         "index": 367,
         "means": [
-            "dinh du?ng"
+            "dinh dưỡng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "nutritional"
         ]
@@ -4293,10 +3927,9 @@
     {
         "index": 368,
         "means": [
-            "m?c ti?u"
+            "mục tiêu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "objective",
             "target",
@@ -4307,10 +3940,9 @@
     {
         "index": 369,
         "means": [
-            "chu?ng ng?i"
+            "chướng ngại"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "obstacle"
         ]
@@ -4318,10 +3950,9 @@
     {
         "index": 370,
         "means": [
-            "?t khi"
+            "ít khi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "occasionally"
         ]
@@ -4329,10 +3960,9 @@
     {
         "index": 371,
         "means": [
-            "n?m gi?"
+            "nắm giữ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "occupy"
         ]
@@ -4340,10 +3970,9 @@
     {
         "index": 372,
         "means": [
-            "x?y ra"
+            "xảy ra"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "occur"
         ]
@@ -4351,10 +3980,9 @@
     {
         "index": 373,
         "means": [
-            "tr?n truy?n h?nh"
+            "trên truyền hình"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "on air"
         ]
@@ -4362,10 +3990,9 @@
     {
         "index": 374,
         "means": [
-            "thay m?t cho"
+            "thay mặt cho"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "on behalf of",
             "represent"
@@ -4374,10 +4001,9 @@
     {
         "index": 375,
         "means": [
-            "kh?ng th? tr?nh kh?i"
+            "không thể tránh khỏi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "on rare occasion"
         ]
@@ -4385,10 +4011,9 @@
     {
         "index": 376,
         "means": [
-            "d?ng gi?"
+            "đúng giờ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "on time",
             "punctual"
@@ -4397,10 +4022,9 @@
     {
         "index": 377,
         "means": [
-            "n?i chung"
+            "nói chung"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "on the whole"
         ]
@@ -4408,10 +4032,9 @@
     {
         "index": 378,
         "means": [
-            "tr? di"
+            "trở đi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "onward"
         ]
@@ -4419,10 +4042,9 @@
     {
         "index": 379,
         "means": [
-            "ph?n d?i"
+            "phản đối"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "oppose"
         ]
@@ -4430,10 +4052,9 @@
     {
         "index": 380,
         "means": [
-            "t?i uu"
+            "tối ưu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "optimal"
         ]
@@ -4441,10 +4062,9 @@
     {
         "index": 381,
         "means": [
-            "ban d?u"
+            "ban đầu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "originally",
             "initially"
@@ -4453,10 +4073,9 @@
     {
         "index": 382,
         "means": [
-            "t?ng quan"
+            "tổng quan"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "overall"
         ]
@@ -4464,11 +4083,10 @@
     {
         "index": 383,
         "means": [
-            "gi?m s?t",
-            "theo d?i"
+            "giám sát",
+            "theo dõi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "oversee",
             "supervise",
@@ -4479,11 +4097,10 @@
     {
         "index": 384,
         "means": [
-            "nh? c?",
-            "b?i v?"
+            "nhờ có",
+            "bởi vì"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "owing to",
             "because of",
@@ -4496,10 +4113,9 @@
     {
         "index": 385,
         "means": [
-            "s? h?u"
+            "sở hữu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "own",
             "belong",
@@ -4509,10 +4125,9 @@
     {
         "index": 386,
         "means": [
-            "h?i d?ng"
+            "hội đồng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "panel of judges/experts"
         ]
@@ -4520,10 +4135,9 @@
     {
         "index": 387,
         "means": [
-            "ph?n"
+            "phần"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "part",
             "component"
@@ -4532,10 +4146,9 @@
     {
         "index": 388,
         "means": [
-            "d?c bi?t"
+            "đặc biệt"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "particularly"
         ]
@@ -4543,10 +4156,9 @@
     {
         "index": 389,
         "means": [
-            "h?p t?c"
+            "hợp tác"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "partnership with"
         ]
@@ -4554,10 +4166,9 @@
     {
         "index": 390,
         "means": [
-            "hi?n"
+            "hiên"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "patio"
         ]
@@ -4565,10 +4176,9 @@
     {
         "index": 391,
         "means": [
-            "v?t m?u"
+            "vật mẫu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "pattern",
             "sample",
@@ -4578,10 +4188,9 @@
     {
         "index": 392,
         "means": [
-            "con du?ng"
+            "con đường"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "path"
         ]
@@ -4589,12 +4198,11 @@
     {
         "index": 393,
         "means": [
-            "tr?nh di?n",
-            "v?n h?nh",
-            "th?c hi?n"
+            "trình diễn",
+            "vận hành",
+            "thực hiện"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "perform"
         ]
@@ -4602,10 +4210,9 @@
     {
         "index": 394,
         "means": [
-            "d?nh k?"
+            "định kì"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "periodically"
         ]
@@ -4613,10 +4220,9 @@
     {
         "index": 395,
         "means": [
-            "vinh vi?n"
+            "vĩnh viễn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "permanently"
         ]
@@ -4624,10 +4230,9 @@
     {
         "index": 396,
         "means": [
-            "gi?y ph?p"
+            "giấy phép"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "permit"
         ]
@@ -4635,24 +4240,24 @@
     {
         "index": 397,
         "means": [
-            "cho ph?p"
+            "cho phép"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "permit",
             "grant",
             "approve",
-            "allow"
+            "allow",
+            "validate",
+            "admit"
         ]
     },
     {
         "index": 398,
         "means": [
-            "khang khang l?m g?"
+            "khăng khăng làm gì"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "persist"
         ]
@@ -4660,10 +4265,9 @@
     {
         "index": 399,
         "means": [
-            "c? nh?n h?a"
+            "cá nhân hóa"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "personalize"
         ]
@@ -4671,11 +4275,10 @@
     {
         "index": 400,
         "means": [
-            "quan di?m",
-            "t?m nh?n"
+            "quan điểm",
+            "tầm nhìn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "perspective"
         ]
@@ -4683,10 +4286,9 @@
     {
         "index": 401,
         "means": [
-            "thuy?t ph?c"
+            "thuyết phục"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "persuade",
             "convince",
@@ -4697,10 +4299,9 @@
     {
         "index": 402,
         "means": [
-            "thu?c tr? s?u"
+            "thuốc trừ sâu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "pesticide"
         ]
@@ -4708,10 +4309,9 @@
     {
         "index": 403,
         "means": [
-            "kh? t?ch"
+            "khó tích"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "picky"
         ]
@@ -4719,10 +4319,9 @@
     {
         "index": 404,
         "means": [
-            "cam k?t"
+            "cam kết"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "pledge"
         ]
@@ -4730,10 +4329,9 @@
     {
         "index": 405,
         "means": [
-            "ch?nh s?ch"
+            "chính sách"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "policy"
         ]
@@ -4741,11 +4339,10 @@
     {
         "index": 406,
         "means": [
-            "nh?m",
-            "b? boi"
+            "nhóm",
+            "bể bơi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "pool"
         ]
@@ -4753,10 +4350,9 @@
     {
         "index": 407,
         "means": [
-            "t?ch c?c"
+            "tích cực"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "positive"
         ]
@@ -4764,10 +4360,9 @@
     {
         "index": 408,
         "means": [
-            "c?i c?t"
+            "cái cột"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "post"
         ]
@@ -4775,10 +4370,9 @@
     {
         "index": 409,
         "means": [
-            "ti?n thu du?c"
+            "tiền thu được"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "preceeds"
         ]
@@ -4786,11 +4380,10 @@
     {
         "index": 410,
         "means": [
-            "x? l?",
-            "qu? tr?nh"
+            "xử lý",
+            "quá trình"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "process"
         ]
@@ -4798,10 +4391,9 @@
     {
         "index": 411,
         "means": [
-            "do?n"
+            "đoán"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "predict",
             "forecast",
@@ -4813,10 +4405,9 @@
     {
         "index": 412,
         "means": [
-            "s? ti?n b?"
+            "sự tiến bộ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "pregress",
             "advancement"
@@ -4825,10 +4416,9 @@
     {
         "index": 413,
         "means": [
-            "so b?"
+            "sơ bộ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "preliminary"
         ]
@@ -4836,12 +4426,11 @@
     {
         "index": 414,
         "means": [
-            "thuy?t tr?nh",
-            "tr?nh b?y",
-            "th? hi?n"
+            "thuyết trình",
+            "trình bày",
+            "thể hiện"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "present",
             "show"
@@ -4850,24 +4439,22 @@
     {
         "index": 415,
         "means": [
-            "ch? t?ch h?i d?ng qu?n tr?"
+            "chủ tịch hội đồng quản trị"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "president",
             "chair person",
             "chair man",
-            "chair women: ch? t?ch hdqt"
+            "chair women: chủ tịch hđqt"
         ]
     },
     {
         "index": 416,
         "means": [
-            "danh gi?"
+            "danh giá"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "prestigious"
         ]
@@ -4875,10 +4462,9 @@
     {
         "index": 417,
         "means": [
-            "ngan ch?n"
+            "ngăn chặn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "prevent"
         ]
@@ -4886,10 +4472,9 @@
     {
         "index": 418,
         "means": [
-            "tru?c d?y"
+            "trước đây"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "previously ",
             "formerly"
@@ -4898,10 +4483,9 @@
     {
         "index": 419,
         "means": [
-            "ch?nh x?c"
+            "chính xác"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "exactly",
             "accurately",
@@ -4912,10 +4496,9 @@
     {
         "index": 420,
         "means": [
-            "tru?c  "
+            "trước  "
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "prior to",
             "by",
@@ -4927,10 +4510,9 @@
     {
         "index": 421,
         "means": [
-            "uu ti?n"
+            "ưu tiên"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "priority"
         ]
@@ -4938,10 +4520,9 @@
     {
         "index": 422,
         "means": [
-            "tg th? vi?c"
+            "tg thử việc"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "probationary period"
         ]
@@ -4949,10 +4530,9 @@
     {
         "index": 423,
         "means": [
-            "tr?nh t? th? t?c"
+            "trình tự thủ tục"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "procedure"
         ]
@@ -4960,10 +4540,9 @@
     {
         "index": 424,
         "means": [
-            "ti?p t?c th?c hi?n h?nh d?ng g? d?"
+            "tiếp tục thực hiện hành động gì đó"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "proceed"
         ]
@@ -4971,10 +4550,9 @@
     {
         "index": 425,
         "means": [
-            "th?nh th?o"
+            "thành thạo"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "proficient"
         ]
@@ -4982,10 +4560,9 @@
     {
         "index": 426,
         "means": [
-            "l?i nhu?n"
+            "lợi nhuận"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "profit"
         ]
@@ -4993,10 +4570,9 @@
     {
         "index": 427,
         "means": [
-            "d?ng k?"
+            "đáng kể"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "progressively"
         ]
@@ -5004,10 +4580,9 @@
     {
         "index": 428,
         "means": [
-            "th? hi?n ra"
+            "thể hiện ra"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "project"
         ]
@@ -5015,10 +4590,9 @@
     {
         "index": 429,
         "means": [
-            "ti?m nang"
+            "tiềm năng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "promising",
             "potential",
@@ -5028,10 +4602,9 @@
     {
         "index": 430,
         "means": [
-            "nhanh ch?ng"
+            "nhanh chóng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "prompt"
         ]
@@ -5039,10 +4612,9 @@
     {
         "index": 431,
         "means": [
-            "d? xu?t"
+            "đề xuất"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "proposal"
         ]
@@ -5050,10 +4622,9 @@
     {
         "index": 432,
         "means": [
-            "ch?ng minh"
+            "chứng minh"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "prove"
         ]
@@ -5061,10 +4632,9 @@
     {
         "index": 433,
         "means": [
-            "cung c?p"
+            "cung cấp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "provide"
         ]
@@ -5074,8 +4644,7 @@
         "means": [
             "mua"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "purchase"
         ]
@@ -5083,10 +4652,9 @@
     {
         "index": 435,
         "means": [
-            "theo du?i"
+            "theo đuổi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "pursue"
         ]
@@ -5094,10 +4662,9 @@
     {
         "index": 436,
         "means": [
-            "nh? cung c?p"
+            "nhà cung cấp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "purveyor",
             "supplier"
@@ -5106,10 +4673,9 @@
     {
         "index": 437,
         "means": [
-            "dang m?c d?"
+            "đang mặc đồ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "put on",
             "try on"
@@ -5118,10 +4684,9 @@
     {
         "index": 438,
         "means": [
-            "b?ng c?p"
+            "bằng cấp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "qualification"
         ]
@@ -5129,10 +4694,9 @@
     {
         "index": 439,
         "means": [
-            "ch?t lu?ng"
+            "chất lượng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "quality"
         ]
@@ -5140,10 +4704,9 @@
     {
         "index": 440,
         "means": [
-            "s? lu?ng"
+            "số lượng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "quantity"
         ]
@@ -5151,10 +4714,9 @@
     {
         "index": 441,
         "means": [
-            "c?i c?o"
+            "cái cào"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "rake"
         ]
@@ -5162,10 +4724,9 @@
     {
         "index": 442,
         "means": [
-            "do?n du?ng d?c"
+            "đoạn đường dốc"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "ramp"
         ]
@@ -5173,10 +4734,9 @@
     {
         "index": 443,
         "means": [
-            "hi?m"
+            "hiếm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "rare"
         ]
@@ -5184,10 +4744,9 @@
     {
         "index": 444,
         "means": [
-            "h?u nhu kh?ng"
+            "hầu như không"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "rarely",
             "hardly",
@@ -5197,10 +4756,9 @@
     {
         "index": 445,
         "means": [
-            "thay v? "
+            "thay vì "
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "rather than",
             "instead of",
@@ -5210,11 +4768,10 @@
     {
         "index": 446,
         "means": [
-            "th?c hi?n",
-            "nh?n ra"
+            "thực hiện",
+            "nhận ra"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "realize"
         ]
@@ -5222,12 +4779,11 @@
     {
         "index": 447,
         "means": [
-            "nh? l?i",
-            "thu h?i ",
-            "h?i tu?ng"
+            "nhớ lại",
+            "thu hồi ",
+            "hồi tưởng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "recall",
             "salvage"
@@ -5236,10 +4792,9 @@
     {
         "index": 448,
         "means": [
-            "h?a don"
+            "hóa đơn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "receipt",
             "bill",
@@ -5249,10 +4804,9 @@
     {
         "index": 449,
         "means": [
-            "c?ng th?c"
+            "công thức"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "recipe"
         ]
@@ -5260,10 +4814,9 @@
     {
         "index": 450,
         "means": [
-            "mi?n cu?ng l?m g?"
+            "miễn cưỡng làm gì"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "reclutant to V"
         ]
@@ -5271,11 +4824,10 @@
     {
         "index": 451,
         "means": [
-            "ng?i",
-            "do d?"
+            "ngại",
+            "do dự"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "reclutant",
             "hesitate"
@@ -5284,10 +4836,9 @@
     {
         "index": 452,
         "means": [
-            "tuy?n d?ng"
+            "tuyển dụng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "recruit",
             "hire",
@@ -5297,10 +4848,9 @@
     {
         "index": 453,
         "means": [
-            "nh?n th?y"
+            "nhìn thấy"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "refer to",
             "look at"
@@ -5309,11 +4859,10 @@
     {
         "index": 454,
         "means": [
-            "l?c",
-            "tinh luy?n"
+            "lọc",
+            "tinh luyện"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "refine"
         ]
@@ -5321,10 +4870,9 @@
     {
         "index": 455,
         "means": [
-            "ph?n ?nh"
+            "phản ánh"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "reflect"
         ]
@@ -5332,10 +4880,9 @@
     {
         "index": 456,
         "means": [
-            "tr?i gi?o du?ng"
+            "trại giáo dưỡng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "reformatory"
         ]
@@ -5343,10 +4890,9 @@
     {
         "index": 457,
         "means": [
-            "c?i ti?n"
+            "cải tiến"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "reformulate"
         ]
@@ -5354,10 +4900,9 @@
     {
         "index": 458,
         "means": [
-            "ngung"
+            "ngưng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "refrain"
         ]
@@ -5365,10 +4910,9 @@
     {
         "index": 459,
         "means": [
-            "d? an v?t"
+            "đồ ăn vặt"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "refreshment",
             "snack"
@@ -5377,10 +4921,9 @@
     {
         "index": 460,
         "means": [
-            "ho?n tr?"
+            "hoàn trả"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "refund",
             "reimburse",
@@ -5392,10 +4935,9 @@
     {
         "index": 461,
         "means": [
-            "tr?ng tu"
+            "trùng tu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "refurbish"
         ]
@@ -5403,21 +4945,19 @@
     {
         "index": 462,
         "means": [
-            "d?nh gi?"
+            "đánh giá"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
-            "regarde"
+            "regard"
         ]
     },
     {
         "index": 463,
         "means": [
-            "b?t ch?p"
+            "bất chấp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "regardless of"
         ]
@@ -5425,10 +4965,9 @@
     {
         "index": 464,
         "means": [
-            "d?ng ti?c"
+            "đáng tiếc"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "regrettably"
         ]
@@ -5436,10 +4975,9 @@
     {
         "index": 465,
         "means": [
-            "quy d?nh"
+            "quy định"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "regulation"
         ]
@@ -5447,24 +4985,22 @@
     {
         "index": 466,
         "means": [
-            "t? ch?i"
+            "từ chối"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "reject",
             "refuse",
             "decline",
-            "tuwn down: t? ch?i"
+            "tuwn down: từ chối"
         ]
     },
     {
         "index": 467,
         "means": [
-            "li?n quan d?n"
+            "liên quan đến"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "relate to"
         ]
@@ -5472,10 +5008,9 @@
     {
         "index": 468,
         "means": [
-            "ngu?n thu nh?p d?ng tin c?y"
+            "nguồn thu nhập đáng tin cậy"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "reliable/dependable incomes"
         ]
@@ -5483,10 +5018,9 @@
     {
         "index": 469,
         "means": [
-            "r? r?ng"
+            "rõ ràng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "remarkedly"
         ]
@@ -5494,11 +5028,10 @@
     {
         "index": 470,
         "means": [
-            "t? xa",
-            "xa l?nh h?o l?nh"
+            "từ xa",
+            "xa lánh hẻo lánh"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "remote"
         ]
@@ -5506,10 +5039,9 @@
     {
         "index": 471,
         "means": [
-            "s?a ch?a, c?i t?o t?a nh?"
+            "sửa chữa, cải tạo tòa nhà"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "renovate",
             "rebuild",
@@ -5521,22 +5053,21 @@
     {
         "index": 472,
         "means": [
-            "kh?ch quen"
+            "khách quen"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "repeat customer",
-            "patron"
+            "patron",
+            "walk-in client"
         ]
     },
     {
         "index": 473,
         "means": [
-            "theo nhu dc n?i/dua tin"
+            "theo như đc nói/đưa tin"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "reportedly"
         ]
@@ -5544,12 +5075,11 @@
     {
         "index": 474,
         "means": [
-            "d?i di?n",
-            "cho th?y",
-            "di?n t?"
+            "đại diện",
+            "cho thấy",
+            "diễn tả"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "represent"
         ]
@@ -5557,10 +5087,9 @@
     {
         "index": 475,
         "means": [
-            "uy t?n"
+            "uy tín"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "reputation"
         ]
@@ -5568,10 +5097,9 @@
     {
         "index": 476,
         "means": [
-            "s? d?t ch?"
+            "sự đặt chỗ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "reservation"
         ]
@@ -5579,10 +5107,9 @@
     {
         "index": 477,
         "means": [
-            "ph?n h?i"
+            "phản hồi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "respond",
             "reply to"
@@ -5591,10 +5118,9 @@
     {
         "index": 478,
         "means": [
-            "nh?y b?n"
+            "nhạy bén"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "responsive"
         ]
@@ -5602,10 +5128,9 @@
     {
         "index": 479,
         "means": [
-            "gi?i h?n"
+            "giới hạn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "restriction"
         ]
@@ -5615,8 +5140,7 @@
         "means": [
             "doanh thu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "revenue"
         ]
@@ -5624,10 +5148,9 @@
     {
         "index": 481,
         "means": [
-            "xem x?t l?i"
+            "xem xét lại"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "revise"
         ]
@@ -5635,11 +5158,10 @@
     {
         "index": 482,
         "means": [
-            "ph?n l?",
-            "quy ho?ch"
+            "phân lô",
+            "quy hoạch"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "rezone"
         ]
@@ -5647,10 +5169,9 @@
     {
         "index": 483,
         "means": [
-            "th?m nh? lau ch?n"
+            "thảm nhỏ lau chân"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "rug"
         ]
@@ -5658,13 +5179,12 @@
     {
         "index": 484,
         "means": [
-            "gi? cao di?m",
-            "l?m g?p",
-            "d? x? v?o",
-            "s? v?i"
+            "giờ cao điểm",
+            "làm gấp",
+            "đổ xô vào",
+            "sự vội"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "rush"
         ]
@@ -5672,10 +5192,9 @@
     {
         "index": 485,
         "means": [
-            "th?nh thi?n"
+            "thánh thiện"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "saintly"
         ]
@@ -5683,10 +5202,9 @@
     {
         "index": 486,
         "means": [
-            "doanh s?"
+            "doanh số"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "sales figures",
             "sales number"
@@ -5695,10 +5213,9 @@
     {
         "index": 487,
         "means": [
-            "l?y m?u"
+            "lấy mẫu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "sample"
         ]
@@ -5706,10 +5223,9 @@
     {
         "index": 488,
         "means": [
-            "v?t s?o"
+            "vết sẹo"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "scar"
         ]
@@ -5717,10 +5233,9 @@
     {
         "index": 489,
         "means": [
-            "c?i khan"
+            "cái khăn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "scarf"
         ]
@@ -5728,10 +5243,9 @@
     {
         "index": 490,
         "means": [
-            "m?i huong"
+            "mùi hương"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "scent"
         ]
@@ -5739,10 +5253,9 @@
     {
         "index": 491,
         "means": [
-            "xem x?t k? lu?ng"
+            "xem xét kỹ lưỡng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "scrutinize"
         ]
@@ -5750,10 +5263,9 @@
     {
         "index": 492,
         "means": [
-            "t?m"
+            "tìm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "seek",
             "look for"
@@ -5762,10 +5274,9 @@
     {
         "index": 493,
         "means": [
-            "t? c?m quy?n"
+            "tự cầm quyền"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "self-govern",
             "independent"
@@ -5774,11 +5285,10 @@
     {
         "index": 494,
         "means": [
-            "h?p l?",
-            "c? ? th?c"
+            "hợp lý",
+            "có ý thức"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "sensible"
         ]
@@ -5786,10 +5296,9 @@
     {
         "index": 495,
         "means": [
-            "th?c t?"
+            "thực tế"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "sensible",
             "realistic",
@@ -5799,10 +5308,9 @@
     {
         "index": 496,
         "means": [
-            "nh?y c?m"
+            "nhạy cảm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "sensitive"
         ]
@@ -5810,11 +5318,10 @@
     {
         "index": 497,
         "means": [
-            "t?ch",
+            "tách",
             "chia"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "separate"
         ]
@@ -5822,10 +5329,9 @@
     {
         "index": 498,
         "means": [
-            "l?m vi?c ? d?u l?u nam/c?ng hi?n cho"
+            "làm việc ở đâu lâu năm/cống hiến cho"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "service with"
         ]
@@ -5833,10 +5339,9 @@
     {
         "index": 499,
         "means": [
-            "d? d?nh"
+            "để dành"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "set aside"
         ]
@@ -5844,10 +5349,9 @@
     {
         "index": 500,
         "means": [
-            "b? dao dia nh?"
+            "bộ dao dĩa nhỏ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "set of utensils"
         ]
@@ -5855,11 +5359,10 @@
     {
         "index": 501,
         "means": [
-            "an cu l?c nghi?p",
-            "gi?i quy?t"
+            "an cư lạc nghiệp",
+            "giải quyết"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "settle"
         ]
@@ -5867,10 +5370,9 @@
     {
         "index": 502,
         "means": [
-            "c?c doan"
+            "cực đoan"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "severe",
             "inclement"
@@ -5879,10 +5381,9 @@
     {
         "index": 503,
         "means": [
-            "ngu?i chan c?u"
+            "người chăn cừu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "shepherd"
         ]
@@ -5890,10 +5391,9 @@
     {
         "index": 504,
         "means": [
-            "c?i x?ng"
+            "cái xẻng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "showel"
         ]
@@ -5901,10 +5401,9 @@
     {
         "index": 505,
         "means": [
-            "t?n hi?u"
+            "tín hiệu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "signal"
         ]
@@ -5912,10 +5411,9 @@
     {
         "index": 506,
         "means": [
-            "l?n"
+            "lớn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "sizable"
         ]
@@ -5923,10 +5421,9 @@
     {
         "index": 507,
         "means": [
-            "su?n s?"
+            "suôn sẻ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "smooth"
         ]
@@ -5934,10 +5431,9 @@
     {
         "index": 508,
         "means": [
-            "cho d?n nay r?t t?t"
+            "cho đến nay rất tốt"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "so far so good"
         ]
@@ -5945,11 +5441,10 @@
     {
         "index": 509,
         "means": [
-            "s? n?i n?",
-            "s? y?u c?u"
+            "sự nài nỉ",
+            "sự yêu cầu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "solicitation"
         ]
@@ -5957,10 +5452,9 @@
     {
         "index": 510,
         "means": [
-            "ch?t r?n"
+            "chất rắn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "solid"
         ]
@@ -5968,10 +5462,9 @@
     {
         "index": 511,
         "means": [
-            "gi?i ph?p"
+            "giải pháp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "solution"
         ]
@@ -5979,10 +5472,9 @@
     {
         "index": 512,
         "means": [
-            "?m d?u"
+            "êm dịu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "soothing"
         ]
@@ -5990,10 +5482,9 @@
     {
         "index": 513,
         "means": [
-            "chuy?n m?n h?a"
+            "chuyên môn hóa"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "specialization"
         ]
@@ -6001,10 +5492,9 @@
     {
         "index": 514,
         "means": [
-            "ch? r?"
+            "chỉ rõ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "specify"
         ]
@@ -6012,10 +5502,9 @@
     {
         "index": 515,
         "means": [
-            "?n d?nh"
+            "ổn định"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "stable"
         ]
@@ -6023,10 +5512,9 @@
     {
         "index": 516,
         "means": [
-            "ch?t th?nh ch?ng"
+            "chất thành chồng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "stack up",
             "pile up"
@@ -6035,10 +5523,9 @@
     {
         "index": 517,
         "means": [
-            "thang b?"
+            "thang bộ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "stair way",
             "stairs"
@@ -6047,10 +5534,9 @@
     {
         "index": 518,
         "means": [
-            "c? l?"
+            "cá là"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "stake sth on sth"
         ]
@@ -6058,10 +5544,9 @@
     {
         "index": 519,
         "means": [
-            "t? tin v?"
+            "tự tin về"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "stand behind"
         ]
@@ -6071,8 +5556,7 @@
         "means": [
             "ghim"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "staple"
         ]
@@ -6080,10 +5564,9 @@
     {
         "index": 521,
         "means": [
-            "tuy?n b?"
+            "tuyên bố"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "state",
             "declare",
@@ -6094,10 +5577,9 @@
     {
         "index": 522,
         "means": [
-            "c? d?nh"
+            "cố định"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "stationary"
         ]
@@ -6105,10 +5587,9 @@
     {
         "index": 523,
         "means": [
-            "van ph?ng ph?m"
+            "văn phòng phẩm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "stationery",
             "office suppliers"
@@ -6117,10 +5598,9 @@
     {
         "index": 524,
         "means": [
-            "d?u d?n"
+            "đều đặn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "steadily"
         ]
@@ -6128,10 +5608,9 @@
     {
         "index": 525,
         "means": [
-            "bu?c xu?ng"
+            "bước xuống"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "step down",
             "get off"
@@ -6140,10 +5619,9 @@
     {
         "index": 526,
         "means": [
-            "s? kh?ch l?"
+            "sự khích lệ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "stimulus"
         ]
@@ -6151,10 +5629,9 @@
     {
         "index": 527,
         "means": [
-            "gh? d?u"
+            "ghế đẩu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "stool"
         ]
@@ -6162,10 +5639,9 @@
     {
         "index": 528,
         "means": [
-            "gh? qua"
+            "ghé qua"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "stop by",
             "drop by"
@@ -6174,10 +5650,9 @@
     {
         "index": 529,
         "means": [
-            "kho h?ng"
+            "kho hàng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "storage room",
             "stockroom",
@@ -6188,10 +5663,9 @@
     {
         "index": 530,
         "means": [
-            "c? quy lu?t"
+            "có quy luật"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "strategically"
         ]
@@ -6199,10 +5673,9 @@
     {
         "index": 531,
         "means": [
-            "s?p x?p h?p l?"
+            "sắp xếp hợp lý"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "streamlined"
         ]
@@ -6210,11 +5683,10 @@
     {
         "index": 532,
         "means": [
-            "l?m m?nh",
-            "c?i ti?n"
+            "làm mạnh",
+            "cải tiến"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "strengthen"
         ]
@@ -6222,10 +5694,10 @@
     {
         "index": 533,
         "means": [
-            "kh?t khe"
+            "khắt khe",
+            "kỷ luật"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "strict"
         ]
@@ -6233,10 +5705,9 @@
     {
         "index": 534,
         "means": [
-            "d?u tranh"
+            "đấu tranh"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "struggle"
         ]
@@ -6244,11 +5715,10 @@
     {
         "index": 535,
         "means": [
-            "tu?n theo",
-            "t?y thu?c v?o"
+            "tuân theo",
+            "tùy thuộc vào"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "subject to N"
         ]
@@ -6256,10 +5726,9 @@
     {
         "index": 536,
         "means": [
-            "n?p"
+            "nộp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "submit",
             "file",
@@ -6270,11 +5739,10 @@
     {
         "index": 537,
         "means": [
-            "ti?p qu?n",
-            "k? nhi?m"
+            "tiếp quản",
+            "kế nhiệm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "succeed",
             "take over",
@@ -6284,10 +5752,9 @@
     {
         "index": 538,
         "means": [
-            "li?n ti?p"
+            "liên tiếp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "successive"
         ]
@@ -6295,10 +5762,9 @@
     {
         "index": 539,
         "means": [
-            "d?"
+            "đủ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "sufficiant",
             "enough",
@@ -6309,10 +5775,9 @@
     {
         "index": 540,
         "means": [
-            "d? xu?t"
+            "đề xuất"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "suggest"
         ]
@@ -6320,10 +5785,9 @@
     {
         "index": 541,
         "means": [
-            "ph? h?p"
+            "phù hợp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "suitable",
             "appropriate",
@@ -6334,10 +5798,9 @@
     {
         "index": 542,
         "means": [
-            "t?m t?t"
+            "tóm tắt"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "summary"
         ]
@@ -6345,10 +5808,9 @@
     {
         "index": 543,
         "means": [
-            "kh?o s?t"
+            "khảo sát"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "survey"
         ]
@@ -6356,11 +5818,10 @@
     {
         "index": 544,
         "means": [
-            "treo l?n",
-            "lo l?ng"
+            "treo lên",
+            "lơ lửng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "suspend"
         ]
@@ -6368,10 +5829,9 @@
     {
         "index": 545,
         "means": [
-            "ch?u d?ng"
+            "chịu đựng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "sustain"
         ]
@@ -6379,10 +5839,9 @@
     {
         "index": 546,
         "means": [
-            "chuy?n d?i"
+            "chuyển đổi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "switch to"
         ]
@@ -6390,10 +5849,9 @@
     {
         "index": 547,
         "means": [
-            "b? d? d?ng tr?n b?n an"
+            "bộ đồ dùng trên bàn ăn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "table ware"
         ]
@@ -6401,11 +5859,10 @@
     {
         "index": 548,
         "means": [
-            "s?a ch?a theo y?u c?u ri?ng",
-            "th? may"
+            "sửa chữa theo yêu cầu riêng",
+            "thợ may"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "tailor"
         ]
@@ -6413,11 +5870,10 @@
     {
         "index": 549,
         "means": [
-            "tranh th?",
-            "t?n d?ng"
+            "tranh thủ",
+            "tận dụng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "take advantage of",
             "make use of "
@@ -6428,8 +5884,7 @@
         "means": [
             "tham gia"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "take part in",
             "join",
@@ -6439,10 +5894,9 @@
     {
         "index": 551,
         "means": [
-            "c? tr?ch nhi?m l?m g?"
+            "có trách nhiệm làm gì"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "take responsibility for N",
             "in charge of",
@@ -6452,10 +5906,9 @@
     {
         "index": 552,
         "means": [
-            "gi?n do?n"
+            "gián đoạn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "temporarily"
         ]
@@ -6463,10 +5916,9 @@
     {
         "index": 553,
         "means": [
-            "ngu?i thu? nh?"
+            "người thuê nhà"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "tenant"
         ]
@@ -6474,10 +5926,9 @@
     {
         "index": 554,
         "means": [
-            "l?m ch?ng"
+            "làm chứng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "testify"
         ]
@@ -6485,10 +5936,9 @@
     {
         "index": 555,
         "means": [
-            "d?n d?p"
+            "dọn dẹp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "tidy"
         ]
@@ -6496,10 +5946,9 @@
     {
         "index": 556,
         "means": [
-            "c? v?t"
+            "cà vạt"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "tie"
         ]
@@ -6507,10 +5956,9 @@
     {
         "index": 557,
         "means": [
-            "bu?c"
+            "buộc"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "tie",
             "fasten",
@@ -6520,10 +5968,9 @@
     {
         "index": 558,
         "means": [
-            "hu?ng v? "
+            "hướng về "
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "toward"
         ]
@@ -6531,10 +5978,9 @@
     {
         "index": 559,
         "means": [
-            "ph? d?ng kh?a h?c ? tru?ng"
+            "phí đóng khóa học ở trường"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "tuition fee"
         ]
@@ -6542,10 +5988,9 @@
     {
         "index": 560,
         "means": [
-            "h?m"
+            "hầm"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "tunnel"
         ]
@@ -6553,10 +5998,9 @@
     {
         "index": 561,
         "means": [
-            "s? tham gia"
+            "sự tham gia"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "turnout",
             "attendance"
@@ -6565,10 +6009,9 @@
     {
         "index": 562,
         "means": [
-            "d?c trung hay di?n ra"
+            "đặc trưng hay diễn ra"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "typically"
         ]
@@ -6576,22 +6019,20 @@
     {
         "index": 563,
         "means": [
-            "th?ng thu?ng"
+            "thông thường"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
-            "typically + M? ",
+            "typically + MĐ ",
             "normally"
         ]
     },
     {
         "index": 564,
         "means": [
-            "bsi t?m l?"
+            "bsi tâm lý"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "therapist"
         ]
@@ -6599,10 +6040,9 @@
     {
         "index": 565,
         "means": [
-            "b? di?u khi?n nhi?t d?"
+            "bộ điều khiển nhiệt độ"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "thermostat"
         ]
@@ -6610,11 +6050,10 @@
     {
         "index": 566,
         "means": [
-            "c?n tr?ng",
-            "to?n"
+            "cẩn trọng",
+            "toàn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "thorough"
         ]
@@ -6622,10 +6061,9 @@
     {
         "index": 567,
         "means": [
-            "xuy?n qua"
+            "xuyên qua"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "through"
         ]
@@ -6633,10 +6071,9 @@
     {
         "index": 568,
         "means": [
-            "tr?n kh?p"
+            "trên khắp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "throughtout"
         ]
@@ -6644,10 +6081,9 @@
     {
         "index": 569,
         "means": [
-            "du?ng m?n"
+            "đường mòn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "trail"
         ]
@@ -6655,10 +6091,9 @@
     {
         "index": 570,
         "means": [
-            "d?c t?nh"
+            "đặc tính"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "trait"
         ]
@@ -6666,10 +6101,9 @@
     {
         "index": 571,
         "means": [
-            "chuy?n kho?n"
+            "chuyển khoản"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "transfer"
         ]
@@ -6677,10 +6111,9 @@
     {
         "index": 572,
         "means": [
-            "s? minh b?ch"
+            "sự minh bạch"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "transparency"
         ]
@@ -6688,10 +6121,9 @@
     {
         "index": 573,
         "means": [
-            "x?t x?"
+            "xét xử"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "trial"
         ]
@@ -6699,10 +6131,9 @@
     {
         "index": 574,
         "means": [
-            "x? l? s? c?"
+            "xử lý sự cố"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "troubleshooting"
         ]
@@ -6710,10 +6141,9 @@
     {
         "index": 575,
         "means": [
-            "nh?t tr?"
+            "nhất trí"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "unanimously"
         ]
@@ -6721,10 +6151,9 @@
     {
         "index": 576,
         "means": [
-            "ch?u"
+            "chịu"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "undergo",
             "suffer",
@@ -6735,10 +6164,9 @@
     {
         "index": 577,
         "means": [
-            "v? ?"
+            "vô ý"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "unintentionally"
         ]
@@ -6746,11 +6174,10 @@
     {
         "index": 578,
         "means": [
-            "n?u kh?ng",
-            "tr? khi"
+            "nếu không",
+            "trừ khi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "unless"
         ]
@@ -6758,11 +6185,10 @@
     {
         "index": 579,
         "means": [
-            "kh?ng th?",
-            "kh?ng ch?c"
+            "không thể",
+            "không chắc"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "unlikely to V"
         ]
@@ -6770,10 +6196,9 @@
     {
         "index": 580,
         "means": [
-            "kh?ng th? do?n"
+            "không thể đoán"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "unpredicted",
             "unforeseen",
@@ -6783,10 +6208,9 @@
     {
         "index": 581,
         "means": [
-            "cao c?p"
+            "cao cấp"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "upscale"
         ]
@@ -6794,10 +6218,9 @@
     {
         "index": 582,
         "means": [
-            "g?p r?t"
+            "gấp rút"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "urgently"
         ]
@@ -6805,10 +6228,9 @@
     {
         "index": 583,
         "means": [
-            "s? d?ng"
+            "sử dụng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "utiliz"
         ]
@@ -6816,10 +6238,9 @@
     {
         "index": 584,
         "means": [
-            "ch? tr?ng"
+            "chỗ trống"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "vacancy",
             "slot",
@@ -6829,10 +6250,10 @@
     {
         "index": 585,
         "means": [
-            "mo h?"
+            "mơ hồ",
+            "hơi đúng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "vaguely"
         ]
@@ -6840,10 +6261,9 @@
     {
         "index": 586,
         "means": [
-            "m?nh m?ng"
+            "mênh mông"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "vast"
         ]
@@ -6851,10 +6271,9 @@
     {
         "index": 587,
         "means": [
-            "k gian cho s? ki?n"
+            "k gian cho sự kiện"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "venue"
         ]
@@ -6862,10 +6281,9 @@
     {
         "index": 588,
         "means": [
-            "h?p onl"
+            "họp onl"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "video-conference",
             "virtual meeting/conference"
@@ -6874,10 +6292,9 @@
     {
         "index": 589,
         "means": [
-            "b?o h?nh"
+            "bảo hành"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "warranty",
             "guarantee"
@@ -6886,10 +6303,9 @@
     {
         "index": 590,
         "means": [
-            "b? s?ng"
+            "bờ sông"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "waterfront"
         ]
@@ -6897,10 +6313,9 @@
     {
         "index": 591,
         "means": [
-            "s? lu?ng l?n"
+            "số lượng lớn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "wealth"
         ]
@@ -6908,10 +6323,9 @@
     {
         "index": 592,
         "means": [
-            "ch?o d?n"
+            "chào đón"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "welcome",
             "greet"
@@ -6920,10 +6334,9 @@
     {
         "index": 593,
         "means": [
-            "h?n kim lo?i"
+            "hàn kim loại"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "weld"
         ]
@@ -6931,10 +6344,9 @@
     {
         "index": 594,
         "means": [
-            "n?i ti?ng"
+            "nổi tiếng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "wel-known",
             "renowned",
@@ -6947,8 +6359,7 @@
         "means": [
             "trong khi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "while",
             "whereas"
@@ -6957,10 +6368,9 @@
     {
         "index": 596,
         "means": [
-            "nh? cung c?p s? lu?ng l?n"
+            "nhà cung cấp số lượng lớn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "wholesalr distributor"
         ]
@@ -6968,10 +6378,9 @@
     {
         "index": 597,
         "means": [
-            "lan r?ng"
+            "lan rộng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "widespread"
         ]
@@ -6979,10 +6388,9 @@
     {
         "index": 598,
         "means": [
-            "s? s?n l?ng"
+            "sự sẵn lòng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "willingness"
         ]
@@ -6990,10 +6398,9 @@
     {
         "index": 599,
         "means": [
-            "k?nh ch?n gi? xe hoi"
+            "kính chắn gió xe hơi"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "windshield"
         ]
@@ -7001,10 +6408,9 @@
     {
         "index": 600,
         "means": [
-            "lau b?ng khan/tay"
+            "lau bằng khăn/tay"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "wip"
         ]
@@ -7012,10 +6418,9 @@
     {
         "index": 601,
         "means": [
-            "h?p t?c c?ng"
+            "hợp tác cùng"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "work with",
             "partner with",
@@ -7027,10 +6432,9 @@
     {
         "index": 602,
         "means": [
-            "c?nh b?o"
+            "cảnh báo"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "alert"
         ]
@@ -7038,10 +6442,9 @@
     {
         "index": 603,
         "means": [
-            "trung th?nh"
+            "trung thành"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "loyal"
         ]
@@ -7049,10 +6452,9 @@
     {
         "index": 604,
         "means": [
-            "chuy?n th?nh"
+            "chuyển thành"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "convert"
         ]
@@ -7060,11 +6462,10 @@
     {
         "index": 605,
         "means": [
-            "k? h?n",
-            "di?u kho?n"
+            "kỳ hạn",
+            "điều khoản"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "term"
         ]
@@ -7072,13 +6473,239 @@
     {
         "index": 606,
         "means": [
-            "s? d?i m?i",
-            "s? gia h?n"
+            "sự đổi mới",
+            "sự gia hạn"
         ],
-        "notes": [
-        ],
+        "notes": "",
         "words": [
             "renewal"
+        ]
+    },
+    {
+        "index": 607,
+        "means": [
+            "khuyên "
+        ],
+        "notes": "",
+        "words": [
+            "advise"
+        ]
+    },
+    {
+        "index": 608,
+        "means": [
+            "nhân viên hậu cần"
+        ],
+        "notes": "",
+        "words": [
+            "coordinator"
+        ]
+    },
+    {
+        "index": 609,
+        "means": [
+            "nhắc nhở"
+        ],
+        "notes": "",
+        "words": [
+            "remind"
+        ]
+    },
+    {
+        "index": 610,
+        "means": [
+            "đề xuất"
+        ],
+        "notes": "",
+        "words": [
+            "propose"
+        ]
+    },
+    {
+        "index": 611,
+        "means": [
+            "khẩn cấp"
+        ],
+        "notes": "",
+        "words": [
+            "urgent "
+        ]
+    },
+    {
+        "index": 612,
+        "means": [
+            "đầu tư"
+        ],
+        "notes": "",
+        "words": [
+            "invest "
+        ]
+    },
+    {
+        "index": 613,
+        "means": [
+            "người xem",
+            "khán giả"
+        ],
+        "notes": "",
+        "words": [
+            "audience"
+        ]
+    },
+    {
+        "index": 614,
+        "means": [
+            "lấn át"
+        ],
+        "notes": "",
+        "words": [
+            "drown out"
+        ]
+    },
+    {
+        "index": 615,
+        "means": [
+            "có hiệu lực"
+        ],
+        "notes": "",
+        "words": [
+            "validation",
+            "valid",
+            "expired"
+        ]
+    },
+    {
+        "index": 616,
+        "means": [
+            "trang bị nội thất"
+        ],
+        "notes": "",
+        "words": [
+            "furnish"
+        ]
+    },
+    {
+        "index": 617,
+        "means": [
+            "sự thú nhận",
+            "sự nhận vào"
+        ],
+        "notes": "",
+        "words": [
+            "admission"
+        ]
+    },
+    {
+        "index": 618,
+        "means": [
+            "khổng lồ"
+        ],
+        "notes": "",
+        "words": [
+            "enormous"
+        ]
+    },
+    {
+        "index": 619,
+        "means": [
+            "mức độ",
+            "phạm vi"
+        ],
+        "notes": "",
+        "words": [
+            "scale"
+        ]
+    },
+    {
+        "index": 620,
+        "means": [
+            "đường xoắn ốc"
+        ],
+        "notes": "",
+        "words": [
+            "spiral"
+        ]
+    },
+    {
+        "index": 621,
+        "means": [
+            "bảo tồn"
+        ],
+        "notes": "",
+        "words": [
+            "conserve"
+        ]
+    },
+    {
+        "index": 622,
+        "means": [
+            "chứng chỉ"
+        ],
+        "notes": "",
+        "words": [
+            "credential "
+        ]
+    },
+    {
+        "index": 623,
+        "means": [
+            "bắt buộc"
+        ],
+        "notes": "",
+        "words": [
+            "mandatory"
+        ]
+    },
+    {
+        "index": 624,
+        "means": [
+            "nhu cầu"
+        ],
+        "notes": "",
+        "words": [
+            "demand"
+        ]
+    },
+    {
+        "index": 625,
+        "means": [
+            "nhận xét",
+            "làm chú ý"
+        ],
+        "notes": "",
+        "words": [
+            "remark "
+        ]
+    },
+    {
+        "index": 626,
+        "means": [
+            "thực tình"
+        ],
+        "notes": "",
+        "words": [
+            "honestly"
+        ]
+    },
+    {
+        "index": 627,
+        "means": [
+            "hội thảo"
+        ],
+        "notes": "",
+        "words": [
+            "panel  ",
+            "seminar"
+        ]
+    },
+    {
+        "index": 628,
+        "means": [
+            "tương tự"
+        ],
+        "notes": "",
+        "words": [
+            "resemble"
         ]
     }
 ]
